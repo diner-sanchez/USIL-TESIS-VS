@@ -1,0 +1,21 @@
+\babel@toc {american}{}\relax 
+\thispagestyle {empty}
+\contentsline {section}{Dedicatoria}{iv}{section*.2}%
+\contentsline {section}{Agradecimiento}{v}{section*.3}%
+\contentsline {section}{Resumen}{vi}{section*.4}%
+\contentsline {section}{Abstract}{vii}{section*.5}%
+\contentsline {section}{\numberline {Capítulo I:}Method}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1.}Participants}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Materials}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Design}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4.}Procedure}{2}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1.}Instrument \#1}{2}{subsubsection.1.4.1}%
+\contentsline {paragraph}{Reliability}{3}{section*.7}%
+\contentsline {subparagraph}{\relax }{3}{section*.8}%
+\contentsline {subparagraph}{\relax }{3}{section*.9}%
+\contentsline {paragraph}{Validity}{3}{section*.10}%
+\contentsline {subparagraph}{\relax }{3}{section*.11}%
+\contentsline {subparagraph}{\relax }{3}{section*.12}%
+\contentsline {section}{\numberline {Capítulo II:}Results}{4}{section.2}%
+\contentsline {section}{\numberline {Capítulo III:}Discussion}{5}{section.3}%
+\contentsline {section}{Referencias}{7}{section*.16}%

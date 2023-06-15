@@ -1,0 +1,30 @@
+\begin{tikzpicture}[node distance=1.00cm]
+
+ % Definir los nodos----------------------------------------------------------------------------------------
+\node (Start) [Ejemplo] {Iniciar \\ Incremento};
+
+\node (process1) [SProcess, below of=Start, yshift=-1.00cm] {Incrementar carga externa $f_{ext}$\\ $\Delta u=0$};
+\node (process2) [SProcess, below of=process1, yshift=-1.00cm] {Calcular \say{fuerza de desequilibrio}\\ $g= f_{ext} - f_{int,1}$};
+\node (process3) [SProcess, below of=process2, yshift=-1.00cm] {Predecir cambio en desplazamientos $\delta u$\\ $\Delta u_{i+1}= \Delta u_{i}+\delta u_{i+1}$};
+\node (process4) [SProcess, below of=process3, yshift=-0.80cm] {Determinar nueva fuerza interna $f_{int}$};
+
+\node (decision1) [Decision, below of=process4, yshift=-1.00cm,aspect=3] {¿Parar Iteración?};
+
+\node (End) [Ejemplo, below of=decision1, yshift=-1.00cm] {Finalizar \\ Incremento};
+
+\coordinate [left of=decision1, xshift=-2.5cm] (P1) {};
+\coordinate [left of=process1, xshift=-2.5cm, yshift=-0.90cm] (P2) {};
+\coordinate [right of=P2, xshift=2.5cm] (P3) {};
+
+ % Definir las conexiones-----------------------------------------------------------------------------------
+\draw [Arrow] (Start) -- (process1);
+\draw [Arrow] (process1) -- (process2);
+\draw [Arrow] (process2) -- (process3);
+\draw [Arrow] (process3) -- (process4);
+\draw [Arrow] (process4) -- (decision1);
+\draw [Arrow] (decision1) -- node[anchor=north]{no} (P1);
+\draw [Arrow] (P1) -- (P2);
+\draw [Arrow] (P2) -- (P3);
+\draw [Arrow] (decision1) -- node[anchor=west]{si} (End);
+
+\end{tikzpicture}

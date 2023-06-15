@@ -1,0 +1,48 @@
+\begin{tikzpicture}[node distance=1.00cm]
+
+ % Definir los nodos----------------------------------------------------------------------------------------
+\node (Start) [Start] {INICIO};
+
+\node (process1) [PProcess, below of=Start, yshift=-0.50cm] {Recolección de información};
+\node (process2) [PProcess, below of=process1, yshift=-0.80cm] {Elaborar un modelo numérico 3D por FEM};
+\node (process3) [PProcess, below of=process2, yshift=-0.80cm] {Verificar y/o calibrar el modelo};
+\node (process4) [SProcess, right of=Start, xshift=5.0cm] {Diagnóstico visual de la situación estructural};
+\node (process5) [SProcess, below of=process4, yshift=-0.40cm] {Obtener planos en planta y elevación};
+\node (process6) [SProcess, below of=process5, yshift=-0.40cm] {Realizar ensayos de laboratorio de los materiales};
+\coordinate [left of=process5, xshift=-2.0cm] (P1) {};
+
+\node (decision1) [Decision, below of=process3, yshift=-1.3cm,aspect=3] {¿El modelo es correcto?};
+
+\node (process7) [SProcess, right of=process3, xshift=5.30cm] {Revisar el modelo};
+
+\node (process8) [PProcess, below of=decision1, yshift=-1.5cm] {Evaluación sísmica del modelo in-situ};
+\node (process9) [PProcess, below of=process8, yshift=-0.8cm] {Elaboración de la propuesta de reforzamiento};
+\node (process10) [PProcess, below of=process9, yshift=-0.8cm] {Evaluación sísmica del modelo reforzado};
+\node (process11) [SProcess, left of=process10, xshift=-5.0cm] {Cambiar la propuesta de reforzamiento};
+\coordinate [left of=process9, xshift=-5.0cm] (P2) {};
+
+\node (decision2) [Decision, below of=process10, yshift=-1.5cm,aspect=3] {¿Se reduce la vulnerabilidad sísmica?};
+
+\node (End) [End, below of=decision2, yshift=-1.5cm] {FIN};
+
+ % Definir las conexiones---------------------------------------------------------------------------------
+\draw [Arrow] (Start) -- (process1);
+\draw [Arrow] (process1) -- (process2);
+\draw [Arrow] (process2) -- (process3);
+\draw [Arrow] (process3) -- (decision1);
+\draw [Arrow] (decision1) -| node[anchor=north]{no} (process7);
+\draw [Arrow] (process7) -- (process3);
+\draw [Arrow] (decision1) -- node[anchor=west]{si}(process8);
+\draw [Arrow] (process8) -- (process9);
+\draw [Arrow] (process9) -- (process10);
+\draw [Arrow] (process10) -- (decision2);
+\draw [Arrow] (decision2) -| node[anchor=north]{no} (process11);
+\draw [Line] (process11) -- (P2);
+\draw [Arrow] (P2) -- (process9);
+\draw [Arrow] (decision2) -- node[anchor=west]{si} (End);
+\draw [Line] (process4) -| (P1);
+\draw [Line] (process5) -- (P1);
+\draw [Line] (process6) -| (P1);
+\draw [Arrow] (P1) -- (process1);
+
+\end{tikzpicture}

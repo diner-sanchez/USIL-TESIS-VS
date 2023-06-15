@@ -1,0 +1,80 @@
+\usepackage{lipsum} % Generar texto ficticio Lorem Ipsum
+\usepackage[american]{babel} % Configuración del idioma en español
+\usepackage{csquotes} % Mejora las citas y referencias bibliográficas
+\usepackage[style=apa,backend=biber]{biblatex} % Estilo APA para citas y referencias bibliográficas
+\addbibresource{bibliography.bib} 
+\usepackage{hyperref} % Creación de enlaces internos y externos en el documento PDF
+\hypersetup{
+    colorlinks=true, % Activar enlaces coloreados
+    linkcolor=black, % Color de los enlaces internos (por defecto: red)
+    citecolor=black, % Color de los enlaces de citas (por defecto: green)
+    urlcolor=black, % Color de los enlaces URL (por defecto: magenta)
+    linkbordercolor=white, % Color del borde de los enlaces internos (por defecto: red)
+    citebordercolor=white, % Color del borde de los enlaces de citas (por defecto: green)
+    urlbordercolor=white % Color del borde de los enlaces URL (por defecto: magenta)
+}
+
+%%%%%%%%% INCLUIR Y NUMERAR SECCIONES EN TOC Y DOCUMENTO %%%%%%%%%%%%%
+
+\setcounter{tocdepth}{2} % Incluir hasta nivel de subsecciones en la tabla de contenidos
+\setcounter{secnumdepth}{3} % Numerar hasta nivel de subsecciones
+\AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} % Desactivar numeración de página en la página de la tabla de contenidos
+
+%%%%%%%%% AGREGAR PREFIJO A LOF Y LOT %%%%%%%%%%%%%
+\usepackage{tocloft}
+
+\renewcommand{\cftfigpresnum}{Figura }
+\setlength{\cftfignumwidth}{5em}
+
+\renewcommand{\cfttabpresnum}{Tabla }
+\setlength{\cfttabnumwidth}{5em}
+
+%%%%%%%%%% Centrado del título del ÍNDICE / LISTA DE FIGURAS / LISTA DE CUADROS %%%%%%%%%
+
+\renewcommand{\cfttoctitlefont}{\hfill \normalfont\normalsize\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+
+\renewcommand{\cftlottitlefont}{\hfill\normalfont\normalsize\bfseries}
+\renewcommand{\cftafterlottitle}{\hfill}
+
+\renewcommand{\cftloftitlefont}{\hfill\normalfont\normalsize\bfseries}
+\renewcommand{\cftafterloftitle}{\hfill}
+
+%%%%%%%%%% AGREGAR PREFIJO DE A SECCIONES Y A TOC %%%%%%%%%
+
+\makeatletter
+% Agregar prefijo a las secciones en la tabla de contenidos
+%\renewcommand{\cftsecpresnum}{Capítulo }
+%\renewcommand{\cftsecaftersnum}{:}
+\setlength{\cftsecnumwidth}{6.5em}
+\makeatother
+
+\setlength{\cftbeforesecskip}{2mm}
+\renewcommand\cftsecafterpnum{\vskip5pt}
+\renewcommand\cftsubsecafterpnum{\vskip5pt}
+\renewcommand\cftsubsubsecafterpnum{\vskip5pt}
+
+%%%%%%%%%%%%%% DEFINIR INFORMACIÓN PERSONAL Y TRABAJO %%%%%%%%%%%%%%%%%%%%
+
+%Título de la DOCUMENTO (Siempre en mayuscula y sin saltos de linea)
+\title{PROPUESTA DE IMPLEMENTACIÓN DE UN REFORZAMIENTO ESTRUCTURAL PARA REDUCIR LA VULNERABILIDAD SÍSMICA DE LA IGLESIA VILLA DE HUAYLLAY USANDO MODELO DE ELEMENTOS FINITOS}
+
+%Título corto del DOCUMENTO al pie de PÁGINA (Agregar salto de línea de ser necesario)
+\shorttitle{PROPUESTA DE IMPLEMENTACIÓN DE UN REFORZAMIENTO ESTRUCTURAL PARA REDUCIR LA VULNERABILIDAD SÍSMICA DE LA IGLESIA VILLA DE HUAYLLAY USANDO MODELO DE ELEMENTOS FINITOS}
+
+%Nombre de la FACULTAD (Siempre en mayuscula)
+\faculty{FACULTAD DE INGENIERÍA}
+
+%Para obtener el GRADO profesional de ...
+\degree{Ingeniería Civil}
+
+%AUTOR para carátula (Siempre en mayuscula y sin saltos de linea)
+\authorname{SANCHEZ CARBAJAL, DINER ERICK}
+\authororcid{(XXXX-XXXX-XXXX-XXXX)}
+
+%ASESOR para carátula (Siempre en mayuscula y sin saltos de linea)
+\advisorname{ING. SOTO OBLEA, EDWARD JONATHAN}
+\advisororcid{(XXXX-XXXX-XXXX-0000)}
+
+%AÑO para carátula
+\yyearr{2023}
