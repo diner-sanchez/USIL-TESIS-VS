@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  14 JUN 2023 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  15 JUN 2023 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -530,7 +530,7 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count309
 \cp@tempcnt=\count310
-)) (0_PREAMBULO/preamble.tex (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+)) (00_Preamble/preamble.tex (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-05-15 L3 programming layer (loader) 
  (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
@@ -876,7 +876,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux)
+ (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -924,15 +924,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=433.62pt
-* \textheight=614.295pt
-* \oddsidemargin=18.06749pt
-* \evensidemargin=18.06749pt
-* \topmargin=-18.06749pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-40.20018pt
 * \headheight=15.2pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -1007,21 +1007,31 @@ Package biblatex Info: ... file 'main.bbl' found.
  (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
-<E_IMAGENES/0_Caratula/USIL LOGO.png, id=54, 218.8175pt x 301.125pt>
+\openout2 = `01_Caratula/titlepage.aux'.
+
+ (01_Caratula/titlepage.tex
+<E_IMAGENES/0_Caratula/USIL LOGO.png, id=154, 218.8175pt x 301.125pt>
 File: E_IMAGENES/0_Caratula/USIL LOGO.png Graphic file (type png)
 <use E_IMAGENES/0_Caratula/USIL LOGO.png>
-Package pdftex.def Info: E_IMAGENES/0_Caratula/USIL LOGO.png  used on input line 8.
+Package pdftex.def Info: E_IMAGENES/0_Caratula/USIL LOGO.png  used on input line 1.
 (pdftex.def)             Requested size: 109.40848pt x 150.56212pt.
  [1{C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
- <./E_IMAGENES/0_Caratula/USIL LOGO.png>]
+
+ <./E_IMAGENES/0_Caratula/USIL LOGO.png>])
+\openout2 = `02_Epigraph/epigraph.aux'.
+
+ (02_Epigraph/epigraph.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \end{epigraph}
-                    [1
+l.3 \end{epigraph}
+                   [1
 
-] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.toc
+
+
+
+]) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
  (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1044,83 +1054,144 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [1
+
+
+
+])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1
-
-] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lot)
+ [2] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [2] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof)
+ [3] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof)
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [3] [4
+ [4]
+\openout2 = `03_Dedication/dedication.aux'.
 
-] [5
-
-
-] [6
+ (03_Dedication/dedication.tex [5
 
 
-] [7
+])
+\openout2 = `04_Acknowledgments/acknowledgments.aux'.
 
-]
-<E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png, id=133, 1127.71312pt x 425.33907pt>
-File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
-<use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
-Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 53.
-(pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
+ (04_Acknowledgments/acknowledgments.tex [6
 
+
+
+
+
+])
+\openout2 = `05_Summary/summary.aux'.
+
+ (05_Summary/summary.tex [7
+
+
+
+
+
+])
+\openout2 = `06_Abstract/abstract.aux'.
+
+ (06_Abstract/abstract.tex [8
+
+
+
+
+])
+\openout2 = `10_Chapter_I/chapter_I.aux'.
+
+ (10_Chapter_I/chapter_I.tex)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.66 
-      [1
+l.44 \include{10_Chapter_I/chapter_I}
+                                      [1
 
- <./E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>] [2] [3]
+
+
+
+]
+\openout2 = `11_Chapter_II/chapter_II.aux'.
+
+ (11_Chapter_II/chapter_II.tex
+<E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png, id=270, 1127.71312pt x 425.33907pt>
 File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
 <use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
-Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 113.
+Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 20.
 (pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
- [4]
+ [2
+
+
+
+] [3 <./E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>] [4]) [5]
+\openout2 = `12_Chapter_III/chapter_III.aux'.
+
+ (12_Chapter_III/chapter_III.tex [6
+
+
+
+]
 File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
 <use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
-Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 128.
+Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 34.
 (pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
- [5] [6]
+) [7]
+\openout2 = `13_Chapter_IV/chapter_IV.aux'.
+
+ (13_Chapter_IV/chapter_IV.tex
 File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
 <use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
-Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 149.
+Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 20.
 (pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
- [7
+) [8
+
+
+
+] [9]
+\openout2 = `14_Chapter_V/chapter_V.aux'.
+
+ (14_Chapter_V/chapter_V.tex) [10
+
+
+
+] [11
+
+
+]
+File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
+<use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
+Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 90.
+(pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
+ [12
 
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 181.
- [8] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux)
+(Font)              <10.95> on input line 125.
+ [13] [14] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 109A5E00D99693FF215091F4089B0EDE;1131.
+(rerunfilecheck)             Checksum: 79C2D4290074A78D52103C685BADB911;6637.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33078 strings out of 476410
- 651135 string characters out of 5781561
- 1864845 words of memory out of 5000000
- 52843 multiletter control sequences out of 15000+600000
+ 33504 strings out of 476410
+ 669877 string characters out of 5781561
+ 1866845 words of memory out of 5000000
+ 53132 multiletter control sequences out of 15000+600000
  591189 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,103p,723b,5231s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb>
-Output written on "c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.pdf" (17 pages, 667703 bytes).
+Output written on "c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.pdf" (24 pages, 698911 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 415 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 319 words of extra memory for PDF output out of 10000 (max. 10000000)
 

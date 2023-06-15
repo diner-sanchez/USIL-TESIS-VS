@@ -639,12 +639,20 @@
 }
 
 
-\newskip\b@level@one@skip   \b@level@one@skip=2.5ex plus 1ex minus .2ex
-\newskip\e@level@one@skip   \e@level@one@skip=1.5ex plus .6ex minus .1ex
-\newskip\b@level@two@skip   \b@level@two@skip=2.5ex plus 1ex minus .2ex
-\newskip\e@level@two@skip   \e@level@two@skip=1.5ex plus .6ex minus .1ex
-\newskip\b@level@three@skip \b@level@three@skip=2.0ex plus .8ex minus .2ex
-\newskip\e@level@three@skip \e@level@three@skip=1.5ex plus .6ex minus .1ex
+%\newskip\b@level@one@skip   \b@level@one@skip=2.5ex plus 1ex minus .2ex
+%\newskip\e@level@one@skip   \e@level@one@skip=1.5ex plus .6ex minus .1ex
+%\newskip\b@level@two@skip   \b@level@two@skip=2.5ex plus 1ex minus .2ex
+%\newskip\e@level@two@skip   \e@level@two@skip=1.5ex plus .6ex minus .1ex
+%\newskip\b@level@three@skip \b@level@three@skip=2.0ex plus .8ex minus .2ex
+%\newskip\e@level@three@skip \e@level@three@skip=1.5ex plus .6ex minus .1ex
+
+\newskip\b@level@one@skip   \b@level@one@skip=0.2\baselineskip \@plus 0.2ex \@minus 0.2ex
+\newskip\e@level@one@skip   \e@level@one@skip=0.2\baselineskip \@plus .2ex
+\newskip\b@level@two@skip   \b@level@two@skip=0.2\baselineskip \@plus 0.2ex \@minus 0.2ex
+\newskip\e@level@two@skip   \e@level@two@skip=0.2\baselineskip \@plus 0.2ex
+\newskip\b@level@three@skip \b@level@three@skip=0.2\baselineskip \@plus 0.2ex \@minus 0.2ex
+\newskip\e@level@three@skip \e@level@three@skip=0.2\baselineskip \@plus 0.2ex
+
 \newskip\b@level@four@skip  \b@level@four@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
 \newskip\e@level@four@skip  \e@level@four@skip=-0.5em
 \newskip\b@level@five@skip  \b@level@five@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
@@ -657,13 +665,12 @@
     \e@level@two@skip=0.2\baselineskip \@plus 0.2ex
     \b@level@three@skip=0.2\baselineskip \@plus 0.2ex \@minus 0.2ex
     \e@level@three@skip=0.2\baselineskip \@plus 0.2ex
+    
     \b@level@four@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
     \e@level@four@skip=-0.5em
     \b@level@five@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
     \e@level@five@skip=-0.5em
 }{}
-
-
 
 \setcounter{secnumdepth}{0}
 
@@ -1647,11 +1654,18 @@
  \let\endtabular\apaSeven@doc@endtabular% -- thp 2006/01/03
 }
 
-\setlength{\topmargin}{-0.25in}
-\setlength{\oddsidemargin}{0.25in}
-\setlength{\evensidemargin}{0.25in}
-\setlength{\textwidth}{6in}
-\setlength{\textheight}{8.5in}
+\geometry{
+  left=2.54cm,
+  right=2.54cm,
+  top=2.54cm,
+  bottom=2.54cm,
+}
+
+%\setlength{\topmargin}{-0.25in}
+%\setlength{\oddsidemargin}{0.25in}
+%\setlength{\evensidemargin}{0.25in}
+%\setlength{\textwidth}{6in}
+%\setlength{\textheight}{8.5in}
 \setcounter{secnumdepth}{0}
 \flushbottom
 
@@ -1853,19 +1867,19 @@
 
 %%%%%%%%%% PERSONALIZAR ENTORNOS Y ESTILOS DEL DOCUMENTO %%%%%%%%%%%%%%
 % Epigrafe-----------------------------------------------------
-
 \newenvironment{epigraph}
 {
-  \clearpage
-  \thispagestyle{empty} % Página sin encabezado ni pie de página
-  \vspace*{\fill}
-  \begin{adjustwidth}{0.60\textwidth}{}
-  \raggedleft % Alineación a la derecha
-  \itshape
+\clearpage
+\thispagestyle{empty} % Página sin encabezado ni pie de página
+\vspace*{\fill}
+\begin{adjustwidth}{0.60\textwidth}{}
+\raggedleft % Alineación a la derecha
+\itshape
+\setstretch{1.0} % Espaciado de 1.0
 }
 {
-  \end{adjustwidth}
-  \clearpage
+\end{adjustwidth}
+\clearpage
 }
 
 % Dedicatoria-----------------------------------------------------
@@ -1878,6 +1892,7 @@
   \begin{adjustwidth}{0.60\textwidth}{}
   \raggedleft % Alineación a la derecha
   \itshape
+  \setstretch{1.0} % Espaciado de 1.0
   \section*{\raggedleft Dedicatoria}
   \addcontentsline{toc}{section}{Dedicatoria}
 }
@@ -1892,6 +1907,7 @@
 {
   \clearpage
   \section*{\centering Agradecimiento}
+  \setstretch{1.0} % Espaciado de 1.0
   \markboth{Agradecimiento}{Agradecimiento}
   \thispagestyle{otherpage}
   \addcontentsline{toc}{section}{Agradecimiento}

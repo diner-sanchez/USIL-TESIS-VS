@@ -370,10 +370,10 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\cha
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
-INPUT .\0_PREAMBULO\preamble.tex
-INPUT 0_PREAMBULO\preamble.tex
-INPUT .\0_PREAMBULO\preamble.tex
-INPUT 0_PREAMBULO\preamble.tex
+INPUT .\00_Preamble\preamble.tex
+INPUT 00_Preamble\preamble.tex
+INPUT .\00_Preamble\preamble.tex
+INPUT 00_Preamble\preamble.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
@@ -478,6 +478,39 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\toc
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -544,6 +577,13 @@ INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
+INPUT .\01_Caratula\titlepage.tex
+INPUT .\01_Caratula\titlepage.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT .\01_Caratula\titlepage.tex
+INPUT .\01_Caratula\titlepage.tex
+INPUT 01_Caratula\titlepage.tex
+INPUT 01_Caratula\titlepage.tex
 INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
 INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
 INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
@@ -557,6 +597,13 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\pub
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT .\02_Epigraph\epigraph.tex
+INPUT .\02_Epigraph\epigraph.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT .\02_Epigraph\epigraph.tex
+INPUT .\02_Epigraph\epigraph.tex
+INPUT 02_Epigraph\epigraph.tex
+INPUT 02_Epigraph\epigraph.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri9.tfm
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.toc
@@ -607,7 +654,49 @@ INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
+INPUT .\03_Dedication\dedication.tex
+INPUT .\03_Dedication\dedication.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT .\03_Dedication\dedication.tex
+INPUT .\03_Dedication\dedication.tex
+INPUT 03_Dedication\dedication.tex
+INPUT 03_Dedication\dedication.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri8.tfm
+INPUT .\04_Acknowledgments\acknowledgments.tex
+INPUT .\04_Acknowledgments\acknowledgments.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT .\04_Acknowledgments\acknowledgments.tex
+INPUT .\04_Acknowledgments\acknowledgments.tex
+INPUT 04_Acknowledgments\acknowledgments.tex
+INPUT 04_Acknowledgments\acknowledgments.tex
+INPUT .\05_Summary\summary.tex
+INPUT .\05_Summary\summary.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT .\05_Summary\summary.tex
+INPUT .\05_Summary\summary.tex
+INPUT 05_Summary\summary.tex
+INPUT 05_Summary\summary.tex
+INPUT .\06_Abstract\abstract.tex
+INPUT .\06_Abstract\abstract.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT .\06_Abstract\abstract.tex
+INPUT .\06_Abstract\abstract.tex
+INPUT 06_Abstract\abstract.tex
+INPUT 06_Abstract\abstract.tex
+INPUT .\10_Chapter_I\chapter_I.tex
+INPUT .\10_Chapter_I\chapter_I.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT .\10_Chapter_I\chapter_I.tex
+INPUT .\10_Chapter_I\chapter_I.tex
+INPUT 10_Chapter_I\chapter_I.tex
+INPUT 10_Chapter_I\chapter_I.tex
+INPUT .\11_Chapter_II\chapter_II.tex
+INPUT .\11_Chapter_II\chapter_II.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT .\11_Chapter_II\chapter_II.tex
+INPUT .\11_Chapter_II\chapter_II.tex
+INPUT 11_Chapter_II\chapter_II.tex
+INPUT 11_Chapter_II\chapter_II.tex
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
@@ -619,14 +708,35 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\pub
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbxi10.tfm
+INPUT .\12_Chapter_III\chapter_III.tex
+INPUT .\12_Chapter_III\chapter_III.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT .\12_Chapter_III\chapter_III.tex
+INPUT .\12_Chapter_III\chapter_III.tex
+INPUT 12_Chapter_III\chapter_III.tex
+INPUT 12_Chapter_III\chapter_III.tex
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\13_Chapter_IV\chapter_IV.tex
+INPUT .\13_Chapter_IV\chapter_IV.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT .\13_Chapter_IV\chapter_IV.tex
+INPUT .\13_Chapter_IV\chapter_IV.tex
+INPUT 13_Chapter_IV\chapter_IV.tex
+INPUT 13_Chapter_IV\chapter_IV.tex
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\14_Chapter_V\chapter_V.tex
+INPUT .\14_Chapter_V\chapter_V.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
+INPUT .\14_Chapter_V\chapter_V.tex
+INPUT .\14_Chapter_V\chapter_V.tex
+INPUT 14_Chapter_V\chapter_V.tex
+INPUT 14_Chapter_V\chapter_V.tex
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
@@ -639,6 +749,39 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\pub
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication\dedication.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments\acknowledgments.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary\summary.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract\abstract.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I\chapter_I.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II\chapter_II.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.out
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.out
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.run.xml

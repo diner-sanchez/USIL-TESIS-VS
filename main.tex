@@ -1,193 +1,66 @@
 \documentclass[doc, 12pt, a4paper, draftall]{apa7} % Document class
 
-\input{0_PREAMBULO/preamble.tex} % Call preamble using input
+\input{00_Preamble/preamble.tex} % Call preamble using input
 
 \begin{document}
 
 % Carátula del documento
-\maketitle
+\include{01_Caratula/titlepage}
 
 % Epígrafe
-\begin{epigraph}
-  \hfill {\fontsize{9}{13}\selectfont \hfill A mis queridos padres Edgar y Alberta, por  su apoyo, comprensión y concejos. A mis hermanos por alegrarme en los momentos más importantes de mi vida. A mis queridos padres Edgar y Alberta,  por  su apoyo concejos. A mis hermanos por alegrarme en los momentos más importa mi vida.} 
-\end{epigraph}
+\include{02_Epigraph/epigraph}
 
 \frontmatter % Comenzar numeración romana
 
-% Tabla de contenidos
+% Índice de contenidos
 \renewcommand\contentsname{\centering Índice}
 \tableofcontents
 \newpage
+% Índice de tablas
 \renewcommand\listtablename{\centering Índice de Tablas}
 \listoftables
 \newpage
+% Índice de figuras
 \renewcommand\listfigurename{\centering Índice de Figuras}
 \listoffigures
 \newpage
+\doublespacing
 
-\begin{dedication}
- \hfill {\fontsize{8}{13}\selectfont A mis queridos padres Edgar y Alberta,  por  su apoyo, comprensión  y  concejos. A mis hermanos por alegrarme en los momentos más importantes de mi vida.}
-\end{dedication}
-  
-\begin{acknowledgments}
-  Agradecimientos aquí
-\end{acknowledgments}
-  
-\begin{resumen}
-  Resumen aquí
-\end{resumen}
-  
-\begin{abstract}
-  Abstract here
-\end{abstract}
+% Dedicatoria
+\include{03_Dedication/dedication}  
+
+% Agradecimientos
+\include{04_Acknowledgments/acknowledgments}
+
+% Resumen
+\include{05_Summary/summary}
+
+% Abstract
+\include{06_Abstract/abstract}
 
 \mainmatter % Comenzar numeración arábica
 
-\section{Introducción}
+% Capítulo I: Introducción
+\include{10_Chapter_I/chapter_I}
 
-\lipsum[2]
+% Capítulo II: Planteamiento del Problema
+\include{11_Chapter_II/chapter_II}
 
-\section{Planteamiento del Problema}
+% Capítulo III: Marco Teórico
+\include{12_Chapter_III/chapter_III}
 
-\subsection{Situación Problemática}
+% Capítulo IV: Hipótesis y Variables
+\include{13_Chapter_IV/chapter_IV}
 
-\begin{figure}[!ht]
-	\centering
-  \includegraphics[scale=0.36]{E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png}
-	\caption{\centering\footnotesize Cuadro y gráficos que muestran el método N2. Adaptado de \cite{deWaal2009}}
-  \figurenote{This is a great figure.}
-	\label{Cap3_Figura8}
-\end{figure}
+% Capítulo V: Metodología
+\include{14_Chapter_V/chapter_V}
 
-\Textcite{vonDavier2011} said this, that
-too \parencite{vonDavier2011,Lassen2006}.  Further evidence comes from
-other sources \parencite{Shotton1989,Lassen2006}.  
-
-\lipsum[3]
-
-\lipsum[4]
-
-\subsection{Formulación del Problema}
-
-\lipsum[5]
-
-\subsection{Justificación de la Investigación}
-
-\lipsum[6]
-
-\subsection{Objetivos de la Investigación}
-
-\lipsum[7]
-
-\subsubsection{Objetivo General}
-
-\lipsum[8]
-
-\subsubsection{Objetivos Específicos}
-
-\lipsum[9]
-
-\subparagraph{Inter-rater reliability}
-\lipsum[10]
-
-\subparagraph{Test-retest reliability}
-\lipsum[11]
-
-\paragraph{Validity}
-\lipsum[12]
-
-\subparagraph{Face validity}
-\lipsum[13]
-
-\subparagraph{Construct validity}
-\lipsum[14]
-
-\section{Marco Teórico}
-
-\subsection{Antecendentes del Problema}
-
-\lipsum[15]
-
-\lipsum[15]
-
-\subsection{Bases Teóricas}
-
-\lipsum[2]
-
-\subsection{Marco Conceptual}
-
-Table~\ref{tab:BasicTable} summarizes the data. \lipsum[15]
-
-\begin{table}
-  \caption{Sample Basic Table}
-  \label{tab:BasicTable}
-  \begin{tabular}{@{}llr@{}}         \toprule
-  \multicolumn{2}{c}{Item}        \\ \cmidrule(r){1-2}
-  Animal    & Description & Price \\ \midrule
-  Gnat      & per gram    & 13.65 \\
-            & each        &  0.01 \\
-  Gnu       & stuffed     & 92.50 \\
-  Emu       & stuffed     & 33.33 \\
-  Armadillo & frozen      &  8.99 \\ \bottomrule
-  \end{tabular}
-\end{table}
-
-\begin{figure}[!ht]
-	\centering
-  \includegraphics[scale=0.36]{E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png}
-	\caption{\centering\footnotesize Cuadro y gráficos que. Adaptado de \cite{deWaal2009}}
-  \figurenote{This is a great figure.}
-	\label{Cap3_Figura2}
-\end{figure}
-
-Figure~\ref{Cap3_Figura8} shows this trend. \lipsum[16]
-
-\section{Hipótesis y Variables}
-
-\subsection{Hipótesis General}
-
-\subsection{Hipótesis Específicas}
-
-\subsection{Identificación de Variables}
-
-\subsection{Operacionalización de Variables}
-
-\subsection{Matriz de Consistencia}
-
-\lipsum[17]
-
-\lipsum[18]
-
-\begin{figure}[!ht]
-	\centering
-  \includegraphics[scale=0.36]{E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png}
-	\caption{\centering\footnotesize Cuadro y gráficos que muestran el método N2. Adaptado de \cite{deWaal2009}}
-  \figurenote{This is a great figure.}
-	\label{Cap3_Figura3}
-\end{figure}
-
-\lipsum[19]
-
-\section{Metodología}
-
-\subsection{Tipo y Diseño de Investigación}
-
-\subsection{Unidad de Análisis}
-
-\subsection{Población de Estudio}
-
-\subsection{Tamaño de Muestra}
-
-\subsection{Selección de Muestra}
-
-\subsection{Técnicas e Instrumentos de Recolección de Datos}
-
-\subsection{Análisis e Interpretación de la Información}
+% Capítulo VI: Procedimiento y Método de Análisis
 
 \section{Procedimiento y Método de Análisis}
 
 \subsection{Iglesia Villa de Huayllay}
-
+  
 \subsection{Obtención de datos}
 
 \subsection{Implementación MEF}
@@ -200,13 +73,13 @@ Figure~\ref{Cap3_Figura8} shows this trend. \lipsum[16]
 
 \subsection{Evaluación de la Vulnerabilidad Sísmica con Refuerzo}
 
-
 \backmatter % Continuar numeración arábica
 
 \printbibliography[heading=bibintoc, title={Referencias}]
 
 \appendix
 
+% Instrument
 \section{Instrument}
 \label{app:instrument}
 
@@ -221,12 +94,13 @@ As shown in Figure~\ref{fig:Figure2}, these results are impressive. \lipsum[20]
 \end{figure}
 
 \lipsum[21]
+% Pilot Data
 \section{Pilot Data}
 \label{app:surveydata}
 
 The detailed results are shown in Table~\ref{tab:DeckedTable} from Anexo~\ref{app:surveydata}.
 
-\lipsum[22]
+\lipsum[23]
 
 \begin{table}
   \begin{threeparttable}
