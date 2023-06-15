@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  15 JUN 2023 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  15 JUN 2023 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"c:/DESC DOCUMENTS/TESIS/LATEX/USIL TESIS VS/main.tex"
 (c:/DESC DOCUMENTS/TESIS/LATEX/USIL TESIS VS/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-15> (apa7.cls (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2023-05-15> (apa7th-TESIS-USIL.cls (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -920,7 +920,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\15_Chapter_VI/chapter_VI.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII/chapter_VII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII/chapter_VIII.aux))
+ (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\15_Chapter_VI/chapter_VI.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII/chapter_VII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII/chapter_VIII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography/bibliography.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix/appendix.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1254,23 +1254,34 @@ Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input
 
 
 ]
-File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
-<use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
-Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 80.
-(pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
- [15
+\openout2 = `20_Bibliography/bibliography.aux'.
+
+ (20_Bibliography/bibliography.tex) [15
+
 
 
 
 
 ]
+\openout2 = `21_Appendix/appendix.aux'.
+
+ (21_Appendix/appendix.tex
+File: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png Graphic file (type png)
+<use E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png>
+Package pdftex.def Info: E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png  used on input line 11.
+(pdftex.def)             Requested size: 405.97641pt x 153.12193pt.
+ [16
+
+
+
+]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
- [16] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\15_Chapter_VI/chapter_VI.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII/chapter_VII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII/chapter_VIII.aux))
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+) [17] (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula/titlepage.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph/epigraph.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\03_Dedication/dedication.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\04_Acknowledgments/acknowledgments.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\05_Summary/summary.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\06_Abstract/abstract.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\10_Chapter_I/chapter_I.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\11_Chapter_II/chapter_II.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III/chapter_III.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV/chapter_IV.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V/chapter_V.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\15_Chapter_VI/chapter_VI.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII/chapter_VII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII/chapter_VIII.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography/bibliography.aux) (c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix/appendix.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 576013121E71CDB4816E6F8841744997;7836.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1278,17 +1289,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33939 strings out of 476410
- 681369 string characters out of 5781561
+ 34006 strings out of 476410
+ 684996 string characters out of 5781561
  1866845 words of memory out of 5000000
- 53505 multiletter control sequences out of 15000+600000
+ 53553 multiletter control sequences out of 15000+600000
  585750 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,103p,723b,5231s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.pdf" (26 pages, 534093 bytes).
+Output written on "c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.pdf" (27 pages, 534872 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 90 named destinations out of 1000 (max. 500000)
+ 441 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
  383 words of extra memory for PDF output out of 10000 (max. 10000000)
 

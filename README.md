@@ -9,6 +9,7 @@ Esta es una plantilla de tesis en formato APA, diseñada para la Universidad San
 - Se incluyen ejemplos y recomendaciones para ayudar en la redacción y estructuración de la tesis.
 - Se han personalizado las fuentes y tamaños de texto para cumplir con los requisitos de la universidad.
 - Está modificada para el idioma español.
+- Únicamente funciona para el modo "doc" limitarse a cambiar para evitar alteraciones
 
 ## Uso
 
@@ -30,7 +31,13 @@ Si encuentras algún error, tienes sugerencias de mejora o deseas contribuir a l
 
 ## Licencia
 
-Esta plantilla de tesis se distribuye bajo la licencia [MIT](https://opensource.org/licenses/MIT). Siéntete libre de utilizarla, modificarla y compartirla de acuerdo con los términos de esta licencia.
+Derechos de autor (c) [2023] [Diner Sánchez]
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricción, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software hacerlo, bajo las siguientes condiciones:
+
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
 ---
 

@@ -2,10 +2,10 @@ PWD c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\main.tex
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.log
-INPUT .\apa7.cls
-INPUT apa7.cls
-INPUT apa7.cls
-INPUT apa7.cls
+INPUT .\apa7th-TESIS-USIL.cls
+INPUT apa7th-TESIS-USIL.cls
+INPUT apa7th-TESIS-USIL.cls
+INPUT apa7th-TESIS-USIL.cls
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -534,6 +534,12 @@ INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII\chapter_V
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -830,6 +836,20 @@ INPUT .\17_Chapter_VIII\chapter_VIII.tex
 INPUT .\17_Chapter_VIII\chapter_VIII.tex
 INPUT 17_Chapter_VIII\chapter_VIII.tex
 INPUT 17_Chapter_VIII\chapter_VIII.tex
+INPUT .\20_Bibliography\bibliography.tex
+INPUT .\20_Bibliography\bibliography.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT .\20_Bibliography\bibliography.tex
+INPUT .\20_Bibliography\bibliography.tex
+INPUT 20_Bibliography\bibliography.tex
+INPUT 20_Bibliography\bibliography.tex
+INPUT .\21_Appendix\appendix.tex
+INPUT .\21_Appendix\appendix.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
+INPUT .\21_Appendix\appendix.tex
+INPUT .\21_Appendix\appendix.tex
+INPUT 21_Appendix\appendix.tex
+INPUT 21_Appendix\appendix.tex
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
@@ -907,6 +927,12 @@ INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\16_Chapter_VII\chapter_V
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\17_Chapter_VIII\chapter_VIII.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\20_Bibliography\bibliography.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\21_Appendix\appendix.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.out
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.out
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.run.xml

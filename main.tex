@@ -1,4 +1,4 @@
-\documentclass[doc, 12pt, a4paper, draftall]{apa7} % Document class
+\documentclass[doc, 12pt, a4paper, draftall]{apa7th-TESIS-USIL} % Document class
 
 \input{00_Preamble/preamble.tex} % Call preamble using input
 
@@ -66,100 +66,29 @@
 
 \backmatter % Continuar numeración arábica
 
-\printbibliography[heading=bibintoc, title={Referencias}]
+% Referencias
+\include{20_Bibliography/bibliography}
 
-\appendix
-
-% Anexo A: Instrument
-\section{Instrument}
-\label{app:instrument}
-
-As shown in Figure~\ref{fig:Figure2}, these results are impressive. \lipsum[20]
-
-\begin{figure}[ht]
-  \includegraphics[scale=0.36]{E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png}
-	\caption{Cuadro y gráficos que muestran el método N2. Adaptado de \cite{deWaal2009}}
-  \figurenote{This is a great figure.}
-	\label{fig:Figure2}
-\end{figure}
-
-\lipsum[21]
-% Pilot Data
-
-\section{Pilot Data}
-\label{app:surveydata}
-
-The detailed results are shown in Table~\ref{tab:DeckedTable} from Anexo~\ref{app:surveydata}.
-
-\lipsum[23]
-
-\begin{table}[ht]
-  \begin{threeparttable}
-    \caption{A More Complex Decked Table}
-    \label{tab:DeckedTable}
-    \begin{tabular}{@{}lrrr@{}}         \toprule
-    Distribution type  & \multicolumn{2}{l}{Percentage of} & Total number   \\
-                       & \multicolumn{2}{l}{targets with}  & of trials per  \\
-                       & \multicolumn{2}{l}{segment in}    & participant    \\ \cmidrule(r){2-3}
-                                    &  Onset  &  Coda            &          \\ \midrule
-    Categorical -- onset\tabfnm{a}  &    100  &     0            &  196     \\
-    Probabilistic                   &     80  &    20\tabfnm{*}  &  200     \\
-    Categorical -- coda\tabfnm{b}   &      0  &   100\tabfnm{*}  &  196     \\ \midrule
-    \end{tabular}
-    \tablenote{All data are approximate.
-
-            \tabfnt{a}Categorical may be onset.
-            \tabfnt{b}Categorical may also be coda.
-
-            \tabfnt{*}\textit{p} < .05.
-            \tabfnt{**}\textit{p} < .01.
-         }
-  \end{threeparttable}
-\end{table}
-
-\lipsum[23]
+% Anexos
+\include{21_Appendix/appendix}
 
 \end{document}
 
 % 
-% Copyright (C) 2022 by Daniel A. Weiss <daniel.weiss.led at gmail.com>
+% Derechos de autor (C) 2022 por Diner Sánchez
 % 
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License (LPPL), either
-% version 1.3c of this license or (at your option) any later
-% version.  The latest version of this license is in the file:
+% Este trabajo se puede distribuir y/o modificar bajo las condiciones de la licencia pública
+% GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 o cualquier
+% versión posterior.
 % 
-% http://www.latex-project.org/lppl.txt
+% Los usuarios pueden modificar estos archivos libremente sin permiso, siempre y cuando
+% se mantenga intacta la línea de derechos de autor y esta declaración.
 % 
-% Users may freely modify these files without permission, as long as the
-% copyright line and this statement are maintained intact.
+% Este trabajo no cuenta con el respaldo, afiliación o probablemente ni el conocimiento
+% de la Universidad San Ignacio de Loyola.
 % 
-% This work is not endorsed by, affiliated with, or probably even known
-% by, the American Psychological Association.
-% 
-% 
-% This work is "maintained" (as per LPPL maintenance status) by
-% Daniel A. Weiss.
-% 
-% This work consists of the file  apa7.dtx
-% and the derived files           apa7.ins,
-%                                 apa7.cls,
-%                                 apa7.pdf,
-%                                 README,
-%                                 APA7american.txt,
-%                                 APA7british.txt,
-%                                 APA7dutch.txt,
-%                                 APA7english.txt,
-%                                 APA7french.txt,
-%                                 APA7german.txt,
-%                                 APA7ngerman.txt,
-%                                 APA7greek.txt,
-%                                 APA7czech.txt,
-%                                 APA7turkish.txt,
-%                                 APA7spanish.txt,
-%                                 APA7hungarian.txt,
-%                                 APA7endfloat.cfg,
-%                                Figure1.pdf,
-%                                 shortsample.tex,
-%                                 longsample.tex, and
-%                                 bibliography.bib.
+% Este trabajo consiste en el archivo README.md y el archivo de licencia LICENSE.
+% Asegúrate de mantener estos archivos al distribuir o modificar el trabajo.
+%
+
+
