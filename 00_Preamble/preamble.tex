@@ -13,7 +13,9 @@
     citebordercolor=white, % Color del borde de los enlaces de citas (por defecto: green)
     urlbordercolor=white % Color del borde de los enlaces URL (por defecto: magenta)
 }
-\usepackage{subcaption}
+\usepackage{subcaption} % Permite crear subfiguras
+\usepackage{mathptmx} % Cargar la fuente Times New Roman
+
 %%%%%%%%% INCLUIR Y NUMERAR SECCIONES EN TOC Y DOCUMENTO %%%%%%%%%%%%%
 
 \setcounter{tocdepth}{2} % Incluir hasta nivel de subsecciones en la tabla de contenidos
@@ -28,6 +30,11 @@
 
 \renewcommand{\cfttabpresnum}{Tabla }
 \setlength{\cfttabnumwidth}{5em}
+
+%%%%%%%%% MODIFICAR ENTORNO SUBFIGURE %%%%%%%%%%%%%
+
+\renewcommand\thesubfigure{\Alph{subfigure}}
+\captionsetup[subfigure]{labelformat=empty}
 
 %%%%%%%%%% Centrado del título del ÍNDICE / LISTA DE FIGURAS / LISTA DE CUADROS %%%%%%%%%
 
@@ -46,7 +53,8 @@
 % Agregar prefijo a las secciones en la tabla de contenidos
 %\renewcommand{\cftsecpresnum}{Capítulo }
 %\renewcommand{\cftsecaftersnum}{:}
-\setlength{\cftsecnumwidth}{6.5em}
+\settowidth{\cftsecnumwidth}{\normalfont\bfseries\thesection\hspace{1em}} % Calcula el ancho necesario
+\addtolength{\cftsecnumwidth}{1.0em} % Agrega un espaciado adicional
 \makeatother
 
 \setlength{\cftbeforesecskip}{2mm}

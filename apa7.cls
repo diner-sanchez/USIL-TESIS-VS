@@ -1105,8 +1105,8 @@
     \setcounter{equation}{0}%
     \refstepcounter{appendix}%
     \ifnum\c@appendix>1\immediate\write\@auxout{\global\string\oneappendixfalse}\fi%
-    \addcontentsline{toc}{section}{\appendixname~\theappendix: ##1}%
-    \centerline{\normalfont\normalsize\textbf\appendixname\ifoneappendix\else~\textbf\theappendix\fi}%
+    \addcontentsline{toc}{section}{Anexo~\theappendix: ##1}% Cambio de "Apéndice" a "Anexo"
+    \centerline{\normalfont\normalsize\textbf{Anexo\ifoneappendix\else~\theappendix\fi}}% Cambio de "Apéndice" a "Anexo"
     \centerline{\normalfont\normalsize\bfseries##1}\par%
     \setlength{\parindent}{0.5in}
     \makeatletter
@@ -1114,6 +1114,7 @@
     \@afterheading
     \makeatother
 }}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%                     %%
