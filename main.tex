@@ -46,6 +46,25 @@
 % Capítulo II: Planteamiento del Problema
 \include{11_Chapter_II/chapter_II}
 
+\begin{figure}
+  \caption{Figura con subfiguras}
+  \label{fig:figura}
+  \begin{subfigure}{0.4\textwidth}
+      \centering
+      \caption{A}
+      \includegraphics[width=\linewidth]{E_IMAGENES/0_Caratula/USIL LOGO.png}
+      \label{fig:subfig1}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}{0.4\textwidth}
+      \centering
+      \caption{B}
+      \includegraphics[width=\linewidth]{E_IMAGENES/0_Caratula/USIL LOGO.png}
+      \label{fig:subfig2}
+  \end{subfigure}
+  \figurenote{Buenas figuras}
+\end{figure}
+
 % Capítulo III: Marco Teórico
 \include{12_Chapter_III/chapter_III}
 
@@ -85,16 +104,16 @@
 
 As shown in Figure~\ref{fig:Figure2}, these results are impressive. \lipsum[20]
 
-\begin{figure}[!ht]
-	\centering
+\begin{figure}[ht]
   \includegraphics[scale=0.36]{E_IMAGENES/3_Capitulo3/Cap3_Imagen70.png}
-	\caption{\centering\footnotesize Cuadro y gráficos que muestran el método N2. Adaptado de \cite{deWaal2009}}
-  \figurenote{\centering\footnotesize This is a great figure.}
+	\caption{Cuadro y gráficos que muestran el método N2. Adaptado de \cite{deWaal2009}}
+  \figurenote{This is a great figure.}
 	\label{fig:Figure2}
 \end{figure}
 
 \lipsum[21]
 % Pilot Data
+
 \section{Pilot Data}
 \label{app:surveydata}
 
@@ -102,7 +121,7 @@ The detailed results are shown in Table~\ref{tab:DeckedTable} from Anexo~\ref{ap
 
 \lipsum[23]
 
-\begin{table}
+\begin{table}[ht]
   \begin{threeparttable}
     \caption{A More Complex Decked Table}
     \label{tab:DeckedTable}

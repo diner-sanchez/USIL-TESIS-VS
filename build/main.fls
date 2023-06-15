@@ -471,6 +471,10 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\l3p
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
@@ -652,7 +656,6 @@ OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lot
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.lof
 INPUT .\03_Dedication\dedication.tex
 INPUT .\03_Dedication\dedication.tex
@@ -704,10 +707,17 @@ INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
 INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbxi10.tfm
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
 INPUT .\12_Chapter_III\chapter_III.tex
 INPUT .\12_Chapter_III\chapter_III.tex
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\12_Chapter_III\chapter_III.aux

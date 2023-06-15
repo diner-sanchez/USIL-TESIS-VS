@@ -665,7 +665,7 @@
     \e@level@two@skip=0.2\baselineskip \@plus 0.2ex
     \b@level@three@skip=0.2\baselineskip \@plus 0.2ex \@minus 0.2ex
     \e@level@three@skip=0.2\baselineskip \@plus 0.2ex
-    
+
     \b@level@four@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
     \e@level@four@skip=-0.5em
     \b@level@five@skip=0\baselineskip \@plus 0.2ex \@minus 0.2ex
@@ -725,7 +725,7 @@
     \DeclareCaptionLabelFormat{tablelabel}{\hspace{-\parindent}\raggedright\textbf{Tabla #2.}}
     \DeclareCaptionLabelFormat{figurelabel}{\hspace{-\parindent}\raggedright\textbf{Figura #2.}}
     \DeclareCaptionTextFormat{tabletext}{\hspace{-\parindent}\raggedright\textit{#1}}
-    \DeclareCaptionLabelSeparator{apalabelsep}{ }
+    \DeclareCaptionLabelSeparator{apalabelsep}{\\}
 }
 \captionsetup[table]{position=above,skip=0pt,labelformat=tablelabel,labelsep=apalabelsep,textformat=tabletext}
 \captionsetup[figure]{position=above,skip=0pt,labelformat=figurelabel,labelsep=apalabelsep,textfont=it}
@@ -1048,42 +1048,72 @@
 \newif\ifappendix
 \appendixfalse
 
-\def\appendix{%
-  \ifapamodeman{\processdelayedfloats}{}%  BDB -- output all tables and figures prior to the appendix
-  \appendixtrue
-  \apaSevenappfig
-  \apaSevenapptab
-  \apaSevenappeq
-  \let\old@apaSeven@section=\section % This will not work right with five levels in appendix.
-                                 % Should go into \section, not \leveltwo but would also require
-                                 % changes to section* and section[ (see \def\section above)
-                                 % Who uses five level heading appendices anyway?
-  \long\def\section##1{%
-                   \makeatletter%
-                     \def\@currentlabelname{##1 da}%
-                   \makeatother%
-                   \ifapamodeman{%
-                    \clearpage
-                    \setcounter{postfig}{0}
-                    \setcounter{posttbl}{0}
-                   }{%
-                   }%
-                    \setcounter{figure}{0}%
-                    \setcounter{table}{0}%
-                    \setcounter{equation}{0}%
-                    \vskip2.5ex%
-                   \refstepcounter{appendix}% 2002/07/20 this takes care of references too
-                   \ifnum\c@appendix>1\immediate\write\@auxout{\global\string\oneappendixfalse}\fi%
-                      \centerline{\normalfont\normalsize\textbf\appendixname\ifoneappendix\else~\textbf\theappendix\fi}%
-                      \centerline{\normalfont\normalsize\bfseries##1}\par%
-                      \setlength{\parindent}{0.5in}
-                      \makeatletter%
-                        \@afterindentfalse%
-                        \@afterheading%
-                      \makeatother%
-                  }%
-} % end of appendix definition
+% \def\appendix{%
+%   \ifapamodeman{\processdelayedfloats}{}%  BDB -- output all tables and figures prior to the appendix
+%   \appendixtrue
+%   \apaSevenappfig
+%   \apaSevenapptab
+%   \apaSevenappeq
+%   \let\old@apaSeven@section=\section % This will not work right with five levels in appendix.
+%                                  % Should go into \section, not \leveltwo but would also require
+%                                  % changes to section* and section[ (see \def\section above)
+%                                  % Who uses five level heading appendices anyway?
+%   \long\def\section##1{%
+%                    \makeatletter%
+%                      \def\@currentlabelname{##1 da}%
+%                    \makeatother%
+%                    \ifapamodeman{%
+%                     \clearpage
+%                     \setcounter{postfig}{0}
+%                     \setcounter{posttbl}{0}
+%                    }{%
+%                    }%
+%                     \setcounter{figure}{0}%
+%                     \setcounter{table}{0}%
+%                     \setcounter{equation}{0}%
+%                     \vskip2.5ex%
+%                    \refstepcounter{appendix}% 2002/07/20 this takes care of references too
+%                    \ifnum\c@appendix>1\immediate\write\@auxout{\global\string\oneappendixfalse}\fi%
+%                       \centerline{\normalfont\normalsize\textbf\appendixname\ifoneappendix\else~\textbf\theappendix\fi}%
+%                       \centerline{\normalfont\normalsize\bfseries##1}\par%
+%                       \setlength{\parindent}{0.5in}
+%                       \makeatletter%
+%                         \@afterindentfalse%
+%                         \@afterheading%
+%                       \makeatother%
+%                   }%
+% } % end of appendix definition
 
+\def\appendix{%
+\appendixtrue
+\apaSevenappfig
+\apaSevenapptab
+\apaSevenappeq
+\let\old@apaSeven@section=\section
+\long\def\section##1{%
+    \makeatletter
+    \def\@currentlabelname{##1 da}%
+    \makeatother
+    \ifapamodeman{%
+        \clearpage
+        \setcounter{postfig}{0}
+        \setcounter{posttbl}{0}
+    }{%
+    }%
+    \setcounter{figure}{0}%
+    \setcounter{table}{0}%
+    \setcounter{equation}{0}%
+    \refstepcounter{appendix}%
+    \ifnum\c@appendix>1\immediate\write\@auxout{\global\string\oneappendixfalse}\fi%
+    \addcontentsline{toc}{section}{\appendixname~\theappendix: ##1}%
+    \centerline{\normalfont\normalsize\textbf\appendixname\ifoneappendix\else~\textbf\theappendix\fi}%
+    \centerline{\normalfont\normalsize\bfseries##1}\par%
+    \setlength{\parindent}{0.5in}
+    \makeatletter
+    \@afterindentfalse
+    \@afterheading
+    \makeatother
+}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%                     %%
