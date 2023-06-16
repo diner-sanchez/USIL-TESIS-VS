@@ -56,6 +56,87 @@
       \field{pages}{697\bibrangedash 706}
       \range{pages}{10}
     \endentry
+    \entry{Gilbert2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d914915b9636943df69405ed649bc1ae}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648cd3b10d51835d1d1e4d7168547995}{%
+           family={McClernon},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd341deb8b98672390580cb5ca3116f6}{%
+           family={Rabinovich},
+           familyi={R\bibinitperiod},
+           given={Norka},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49dab232d5ee139a5a089b4ffd9cbe55}{%
+           family={Sugai},
+           familyi={S\bibinitperiod},
+           given={Chihiro},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b75eef2ee3cffe26fa7d00c398cefc36}{%
+           family={Plath},
+           familyi={P\bibinitperiod},
+           given={Louisette},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a32a6feba72bcde74718056383817d5}{%
+           family={Asgaard},
+           familyi={A\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7fff282fa241cccea812cb79739991}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Yantao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4aae0735fdba5ae0926786129037129}{%
+           family={Huggenvik},
+           familyi={H\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ff4b1f6e954d258aa0de47387f8010f}{%
+           family={Botros},
+           familyi={B\bibinitperiod},
+           given={Nazeih},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{fullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{bibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authorbibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authornamehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{authorfullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nicotine \& Tobacco Research}
+      \field{number}{2}
+      \field{title}{Effects of quitting smoking on {EEG} activation and attention last for more than 31 days and are more severe with stress, dependence, {DRD2 A1} allele, and depressive traits}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{249\bibrangedash 267}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/14622200410001676305
+      \endverb
+    \endentry
     \entry{Lassen2006}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9859f085b399022e84a5f22c7e26dfae}{%
@@ -210,6 +291,87 @@
       \field{year}{2009}
       \field{pages}{697\bibrangedash 706}
       \range{pages}{10}
+    \endentry
+    \entry{Gilbert2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d914915b9636943df69405ed649bc1ae}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648cd3b10d51835d1d1e4d7168547995}{%
+           family={McClernon},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd341deb8b98672390580cb5ca3116f6}{%
+           family={Rabinovich},
+           familyi={R\bibinitperiod},
+           given={Norka},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49dab232d5ee139a5a089b4ffd9cbe55}{%
+           family={Sugai},
+           familyi={S\bibinitperiod},
+           given={Chihiro},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b75eef2ee3cffe26fa7d00c398cefc36}{%
+           family={Plath},
+           familyi={P\bibinitperiod},
+           given={Louisette},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a32a6feba72bcde74718056383817d5}{%
+           family={Asgaard},
+           familyi={A\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7fff282fa241cccea812cb79739991}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Yantao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4aae0735fdba5ae0926786129037129}{%
+           family={Huggenvik},
+           familyi={H\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ff4b1f6e954d258aa0de47387f8010f}{%
+           family={Botros},
+           familyi={B\bibinitperiod},
+           given={Nazeih},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{fullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{bibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authorbibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authornamehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{authorfullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nicotine \& Tobacco Research}
+      \field{number}{2}
+      \field{title}{Effects of quitting smoking on {EEG} activation and attention last for more than 31 days and are more severe with stress, dependence, {DRD2 A1} allele, and depressive traits}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{249\bibrangedash 267}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/14622200410001676305
+      \endverb
     \endentry
     \entry{Lassen2006}{article}{}
       \name{author}{3}{}{%

@@ -1865,7 +1865,7 @@
       \vspace*{2 mm}
       \begin{figure}[!ht]
     \centering 
-    \includegraphics[scale=0.5]{E_IMAGENES/0_Caratula/USIL LOGO.png}
+    \includegraphics[scale=0.5]{F_Figures/01_Titlepage/USIL LOGO.png}
   \end{figure}
   \vspace{3 mm}
   {\textbf{\@faculty}}\\

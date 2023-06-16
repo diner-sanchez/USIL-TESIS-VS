@@ -492,9 +492,9 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\ado
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
@@ -606,20 +606,20 @@ INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.bbl
-INPUT .\01_Caratula\titlepage.tex
-INPUT .\01_Caratula\titlepage.tex
-OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
-INPUT .\01_Caratula\titlepage.tex
-INPUT .\01_Caratula\titlepage.tex
-INPUT 01_Caratula\titlepage.tex
-INPUT 01_Caratula\titlepage.tex
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT .\01_Titlepage\titlepage.tex
+INPUT .\01_Titlepage\titlepage.tex
+OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
+INPUT .\01_Titlepage\titlepage.tex
+INPUT .\01_Titlepage\titlepage.tex
+INPUT 01_Titlepage\titlepage.tex
+INPUT 01_Titlepage\titlepage.tex
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
+INPUT F_Figures\01_Titlepage\USIL LOGO.png
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
+INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
@@ -760,30 +760,52 @@ INPUT .\11_Chapter_II\chapter_II.tex
 INPUT .\11_Chapter_II\chapter_II.tex
 INPUT 11_Chapter_II\chapter_II.tex
 INPUT 11_Chapter_II\chapter_II.tex
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\11_Chapter_II\Sections\Section_2.1.tex
+INPUT 11_Chapter_II\Sections\Section_2.1.tex
+INPUT .\11_Chapter_II\Sections\Section_2.1.tex
+INPUT 11_Chapter_II\Sections\Section_2.1.tex
+INPUT .\11_Chapter_II\Sections\Section_2.2.tex
+INPUT 11_Chapter_II\Sections\Section_2.2.tex
+INPUT .\11_Chapter_II\Sections\Section_2.2.tex
+INPUT 11_Chapter_II\Sections\Section_2.2.tex
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
+INPUT .\F_Figures\12_Chapter III\Cap3_Imagen20.png
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
+INPUT .\11_Chapter_II\Sections\Section_2.3.tex
+INPUT 11_Chapter_II\Sections\Section_2.3.tex
+INPUT .\11_Chapter_II\Sections\Section_2.3.tex
+INPUT 11_Chapter_II\Sections\Section_2.3.tex
+INPUT .\11_Chapter_II\Sections\Section_2.4.tex
+INPUT 11_Chapter_II\Sections\Section_2.4.tex
+INPUT .\11_Chapter_II\Sections\Section_2.4.tex
+INPUT 11_Chapter_II\Sections\Section_2.4.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT E_IMAGENES\0_Caratula\USIL LOGO.png
-INPUT .\E_IMAGENES\0_Caratula\USIL LOGO.png
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT .\12_Chapter_III\chapter_III.tex
@@ -793,10 +815,13 @@ INPUT .\12_Chapter_III\chapter_III.tex
 INPUT .\12_Chapter_III\chapter_III.tex
 INPUT 12_Chapter_III\chapter_III.tex
 INPUT 12_Chapter_III\chapter_III.tex
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
 INPUT .\13_Chapter_IV\chapter_IV.tex
 INPUT .\13_Chapter_IV\chapter_IV.tex
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\13_Chapter_IV\chapter_IV.aux
@@ -804,10 +829,13 @@ INPUT .\13_Chapter_IV\chapter_IV.tex
 INPUT .\13_Chapter_IV\chapter_IV.tex
 INPUT 13_Chapter_IV\chapter_IV.tex
 INPUT 13_Chapter_IV\chapter_IV.tex
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
 INPUT .\14_Chapter_V\chapter_V.tex
 INPUT .\14_Chapter_V\chapter_V.tex
 OUTPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\14_Chapter_V\chapter_V.aux
@@ -850,10 +878,13 @@ INPUT .\21_Appendix\appendix.tex
 INPUT .\21_Appendix\appendix.tex
 INPUT 21_Appendix\appendix.tex
 INPUT 21_Appendix\appendix.tex
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
-INPUT .\E_IMAGENES\3_Capitulo3\Cap3_Imagen70.png
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
@@ -885,9 +916,9 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\ado
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\main.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
-INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Caratula\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
+INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\01_Titlepage\titlepage.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
 INPUT c:\DESC DOCUMENTS\TESIS\LATEX\USIL TESIS VS\build\02_Epigraph\epigraph.aux
