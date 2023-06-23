@@ -18,6 +18,7 @@
 \usepackage{subcaption} % Permite crear subfiguras
 \usepackage{mathptmx} % Cargar la fuente Times New Roman
 
+
 %%%%%%%%% INCLUIR Y NUMERAR SECCIONES EN TOC Y DOCUMENTO %%%%%%%%%%%%%
 
 \setcounter{tocdepth}{2} % Incluir hasta nivel de subsecciones en la tabla de contenidos
@@ -96,3 +97,13 @@
 
 %AÑO para carátula
 \yyearr{2023}
+
+%META DATOS del PDF
+\makeatletter
+\hypersetup{
+  pdftitle={\@title},
+  pdfauthor={\@authorname},
+  pdfsubject={Tesis de grado},
+  pdfkeywords={word1,word2,word3,word4,word5},
+}
+\makeatother

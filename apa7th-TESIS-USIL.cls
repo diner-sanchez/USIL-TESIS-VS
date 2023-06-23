@@ -1852,6 +1852,9 @@
 \newcommand{\@advisororcid}{} % Redefiniendo ORCID ASESOR
 \newcommand{\advisororcid}[1]{\renewcommand{\@advisororcid}{#1}}
 
+\renewcommand{\keywords}[1]{\textbf{Keywords:} #1}
+\newcommand{\palabrasclave}[1]{\textbf{Palabras Claves:} #1}
+
 %%%%%% Eliminar encabezado y pie de página predeterminados %%%%%%%%%%%%%%%%%%%%
 
 \fancyhead{} %Eliminar encabezado de página predeterminados
@@ -1865,20 +1868,20 @@
       \vspace*{2 mm}
       \begin{figure}[!ht]
     \centering 
-    \includegraphics[scale=0.5]{F_Figures/01_Titlepage/USIL LOGO.png}
+    \includegraphics[scale=0.5]{F_Figures/01_Titlepage/USIL_LOGO.pdf}
   \end{figure}
   \vspace{3 mm}
-  {\textbf{\@faculty}}\\
+  {\textbf{\large \@faculty}}\\
   \vspace{8 mm}
-  {\textbf{Carrera de Ingeniería Civil}}\\
+  {\textbf{\large Carrera de Ingeniería Civil}}\\
   \vspace{9 mm}
   
   \onehalfspacing  % Espaciamiento 1.5
-  {\textbf {\@title}}\\
+  {\textbf {\Large \@title}}\\
   \singlespacing  % Fin del espaciamiento 1.5
   
   \vspace{5 mm}
-  {\textbf{Tesis para optar el Título Profesional de {\@degree} } }\\
+  {\textbf{\large Tesis para optar el Título Profesional de {\@degree} } }\\
   \vspace{9 mm}
   {\large \textbf{\@authorname} }\\ 
   {\large \textbf{\@authororcid}}\\
@@ -1888,7 +1891,7 @@
   {\large \textbf{\@advisorname} }\\
   {\large \textbf{\@advisororcid}}\\
   \vspace{6 mm}	
-  {\large \textbf{LIMA - PERÚ} }\\
+  {\large \textbf{Lima - Perú} }\\
   \vspace{3 mm}	
   {\large \textbf{\@yyearr} }\\
 

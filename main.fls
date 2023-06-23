@@ -640,15 +640,15 @@ INPUT .\01_Titlepage\titlepage.tex
 INPUT .\01_Titlepage\titlepage.tex
 INPUT 01_Titlepage\titlepage.tex
 INPUT 01_Titlepage\titlepage.tex
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT F_Figures\01_Titlepage\USIL LOGO.png
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT .\F_Figures\01_Titlepage\USIL LOGO.png
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT .\F_Figures\01_Titlepage\USIL_LOGO.pdf
+INPUT .\F_Figures\01_Titlepage\USIL_LOGO.pdf
+INPUT F_Figures\01_Titlepage\USIL_LOGO.pdf
+INPUT .\F_Figures\01_Titlepage\USIL_LOGO.pdf
+INPUT .\F_Figures\01_Titlepage\USIL_LOGO.pdf
+INPUT .\F_Figures\01_Titlepage\USIL_LOGO.pdf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
@@ -731,6 +731,8 @@ INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\ado
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 OUTPUT main.toc
@@ -794,6 +796,10 @@ INPUT .\05_Summary\summary.tex
 INPUT .\05_Summary\summary.tex
 INPUT 05_Summary\summary.tex
 INPUT 05_Summary\summary.tex
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi8t.vf
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT .\06_Abstract\abstract.tex
 INPUT .\06_Abstract\abstract.tex
 OUTPUT 06_Abstract\abstract.aux
@@ -841,11 +847,9 @@ INPUT 11_Chapter_II\Sections\Section_2.4.tex
 INPUT .\11_Chapter_II\Sections\Section_2.4.tex
 INPUT 11_Chapter_II\Sections\Section_2.4.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2a.png
 INPUT F_Figures\11_Chapter II\Cap2_Imagen2a.png
@@ -860,8 +864,6 @@ INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen2b.png
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi8t.vf
-INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT .\12_Chapter_III\chapter_III.tex
 INPUT .\12_Chapter_III\chapter_III.tex
 OUTPUT 12_Chapter_III\chapter_III.aux
