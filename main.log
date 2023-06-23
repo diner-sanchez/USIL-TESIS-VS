@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  23 JUN 2023 01:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.12)  23 JUN 2023 02:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1284,7 +1284,7 @@ l.53 \include{10_Chapter_I/chapter_I}
 \openout2 = `11_Chapter_II/chapter_II.aux'.
 
  (11_Chapter_II/chapter_II.tex (11_Chapter_II/Sections/Section_2.1.tex) (11_Chapter_II/Sections/Section_2.2.tex
-<F_Figures/12_Chapter III/Cap3_Imagen20.png, id=335, 783.67781pt x 383.93437pt>
+<F_Figures/12_Chapter III/Cap3_Imagen20.png, id=328, 783.67781pt x 383.93437pt>
 File: F_Figures/12_Chapter III/Cap3_Imagen20.png Graphic file (type png)
 <use F_Figures/12_Chapter III/Cap3_Imagen20.png>
 Package pdftex.def Info: F_Figures/12_Chapter III/Cap3_Imagen20.png  used on input line 8.
@@ -1294,12 +1294,12 @@ Package pdftex.def Info: F_Figures/12_Chapter III/Cap3_Imagen20.png  used on inp
 
 
  <./F_Figures/12_Chapter III/Cap3_Imagen20.png>]
-<F_Figures/11_Chapter II/Cap2_Imagen2a.png, id=347, 551.81157pt x 599.99156pt>
+<F_Figures/11_Chapter II/Cap2_Imagen2a.png, id=341, 551.81157pt x 599.99156pt>
 File: F_Figures/11_Chapter II/Cap2_Imagen2a.png Graphic file (type png)
 <use F_Figures/11_Chapter II/Cap2_Imagen2a.png>
 Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen2a.png  used on input line 20.
 (pdftex.def)             Requested size: 154.50618pt x 167.99649pt.
-<F_Figures/11_Chapter II/Cap2_Imagen2b.png, id=348, 842.39719pt x 622.57594pt>
+<F_Figures/11_Chapter II/Cap2_Imagen2b.png, id=342, 842.39719pt x 622.57594pt>
 File: F_Figures/11_Chapter II/Cap2_Imagen2b.png Graphic file (type png)
 <use F_Figures/11_Chapter II/Cap2_Imagen2b.png>
 Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen2b.png  used on input line 27.
@@ -1307,61 +1307,65 @@ Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen2b.png  used on inpu
  [3] [4 <./F_Figures/11_Chapter II/Cap2_Imagen2a.png> <./F_Figures/11_Chapter II/Cap2_Imagen2b.png>])) [5]
 \openout2 = `12_Chapter_III/chapter_III.aux'.
 
- (12_Chapter_III/chapter_III.tex [6
+ (12_Chapter_III/chapter_III.tex (12_Chapter_III/Sections/Section_3.1.tex) (12_Chapter_III/Sections/Section_3.2.tex) (12_Chapter_III/Sections/Section_3.3.tex [6
 
 
 
 ]
-<F_Figures/11_Chapter II/Cap2_Imagen3c.png, id=376, 395.22656pt x 301.125pt>
+<F_Figures/11_Chapter II/Cap2_Imagen3c.png, id=370, 395.22656pt x 301.125pt>
 File: F_Figures/11_Chapter II/Cap2_Imagen3c.png Graphic file (type png)
 <use F_Figures/11_Chapter II/Cap2_Imagen3c.png>
-Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen3c.png  used on input line 34.
-(pdftex.def)             Requested size: 142.28145pt x 108.4049pt.
-) [7 <./F_Figures/11_Chapter II/Cap2_Imagen3c.png>]
+Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen3c.png  used on input line 22.
+(pdftex.def)             Requested size: 197.6128pt x 150.56212pt.
+)) [7 <./F_Figures/11_Chapter II/Cap2_Imagen3c.png>]
 \openout2 = `13_Chapter_IV/chapter_IV.aux'.
 
- (13_Chapter_IV/chapter_IV.tex
-<F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg, id=384, 963.6pt x 721.94719pt>
+ (13_Chapter_IV/chapter_IV.tex (13_Chapter_IV/Sections/Section_4.1.tex) (13_Chapter_IV/Sections/Section_4.2.tex) (13_Chapter_IV/Sections/Section_4.3.tex) (13_Chapter_IV/Sections/Section_4.4.tex) [8
+
+
+
+] (13_Chapter_IV/Sections/Section_4.5.tex
+<F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg, id=382, 963.6pt x 721.94719pt>
 File: F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg Graphic file (type jpg)
 <use F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg>
-Package pdftex.def Info: F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg  used on input line 20.
+Package pdftex.def Info: F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg  used on input line 10.
 (pdftex.def)             Requested size: 346.89574pt x 259.90079pt.
-) [8
-
-
-
-] [9 <./F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg>]
+ [9])) [10 <./F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg>]
 \openout2 = `14_Chapter_V/chapter_V.aux'.
 
- (14_Chapter_V/chapter_V.tex) [10
+ (14_Chapter_V/chapter_V.tex (14_Chapter_V/Sections/Section_5.1.tex) (14_Chapter_V/Sections/Section_5.2.tex) (14_Chapter_V/Sections/Section_5.3.tex) (14_Chapter_V/Sections/Section_5.4.tex) [11
 
 
 
-]
+] (14_Chapter_V/Sections/Section_5.5.tex) (14_Chapter_V/Sections/Section_5.6.tex) (14_Chapter_V/Sections/Section_5.7.tex)) [12]
 \openout2 = `15_Chapter_VI/chapter_VI.aux'.
 
- (15_Chapter_VI/chapter_VI.tex) [11
+ (15_Chapter_VI/chapter_VI.tex (15_Chapter_VI/Sections/Section_6.1.tex) (15_Chapter_VI/Sections/Section_6.2.tex) (15_Chapter_VI/Sections/Section_6.3.tex) (15_Chapter_VI/Sections/Section_6.4.tex) [13
 
 
 
-]
+] (15_Chapter_VI/Sections/Section_6.5.tex) (15_Chapter_VI/Sections/Section_6.6.tex) (15_Chapter_VI/Sections/Section_6.7.tex)) [14]
 \openout2 = `16_Chapter_VII/chapter_VII.aux'.
 
- (16_Chapter_VII/chapter_VII.tex) [12
+ (16_Chapter_VII/chapter_VII.tex (16_Chapter_VII/Sections/Section_7.1.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5.
+ (C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [15
 
 
 
-]
+]) (16_Chapter_VII/Sections/Section_7.2.tex [16])) [17]
 \openout2 = `17_Chapter_VIII/chapter_VIII.aux'.
 
- (17_Chapter_VIII/chapter_VIII.tex) [13
+ (17_Chapter_VIII/chapter_VIII.tex (17_Chapter_VIII/Sections/Section_8.1.tex [18
 
 
 
-]
+]) (17_Chapter_VIII/Sections/Section_8.2.tex [19])) [20]
 \openout2 = `20_Bibliography/bibliography.aux'.
 
- (20_Bibliography/bibliography.tex) [14
+ (20_Bibliography/bibliography.tex) [21
 
 
 
@@ -1370,24 +1374,23 @@ Package pdftex.def Info: F_Figures/15_Chapter VI/Cap6_Imagen1.jpeg  used on inpu
 ]
 \openout2 = `21_Appendix/appendix.aux'.
 
- (21_Appendix/appendix.tex
-<F_Figures/15_Chapter VI/Cap6_Imagen2.jpeg, id=420, 963.6pt x 722.7pt>
-File: F_Figures/15_Chapter VI/Cap6_Imagen2.jpeg Graphic file (type jpg)
-<use F_Figures/15_Chapter VI/Cap6_Imagen2.jpeg>
-Package pdftex.def Info: F_Figures/15_Chapter VI/Cap6_Imagen2.jpeg  used on input line 11.
-(pdftex.def)             Requested size: 346.89574pt x 260.1718pt.
- [15
+ (21_Appendix/appendix.tex (21_Appendix/Sections/Section_A.tex
+File: F_Figures/11_Chapter II/Cap2_Imagen3c.png Graphic file (type png)
+<use F_Figures/11_Chapter II/Cap2_Imagen3c.png>
+Package pdftex.def Info: F_Figures/11_Chapter II/Cap2_Imagen3c.png  used on input line 9.
+(pdftex.def)             Requested size: 276.6567pt x 210.78606pt.
+) (21_Appendix/Sections/Section_B.tex [22
 
 
 
- <./F_Figures/15_Chapter VI/Cap6_Imagen2.jpeg>]
+]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-) [16] (main.aux (01_Titlepage/titlepage.aux) (02_Epigraph/epigraph.aux) (03_Dedication/dedication.aux) (04_Acknowledgments/acknowledgments.aux) (05_Summary/summary.aux) (06_Abstract/abstract.aux) (10_Chapter_I/chapter_I.aux) (11_Chapter_II/chapter_II.aux) (12_Chapter_III/chapter_III.aux) (13_Chapter_IV/chapter_IV.aux) (14_Chapter_V/chapter_V.aux) (15_Chapter_VI/chapter_VI.aux) (16_Chapter_VII/chapter_VII.aux) (17_Chapter_VIII/chapter_VIII.aux) (20_Bibliography/bibliography.aux) (21_Appendix/appendix.aux))
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+)) [23] (main.aux (01_Titlepage/titlepage.aux) (02_Epigraph/epigraph.aux) (03_Dedication/dedication.aux) (04_Acknowledgments/acknowledgments.aux) (05_Summary/summary.aux) (06_Abstract/abstract.aux) (10_Chapter_I/chapter_I.aux) (11_Chapter_II/chapter_II.aux) (12_Chapter_III/chapter_III.aux) (13_Chapter_IV/chapter_IV.aux) (14_Chapter_V/chapter_V.aux) (15_Chapter_VI/chapter_VI.aux) (16_Chapter_VII/chapter_VII.aux) (17_Chapter_VIII/chapter_VIII.aux) (20_Bibliography/bibliography.aux) (21_Appendix/appendix.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 576013121E71CDB4816E6F8841744997;7836.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1395,17 +1398,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34927 strings out of 476410
- 698063 string characters out of 5781561
+ 35141 strings out of 476410
+ 706573 string characters out of 5781561
  1866845 words of memory out of 5000000
- 54416 multiletter control sequences out of 15000+600000
- 596109 words of font info for 126 fonts, out of 8000000 for 9000
+ 54520 multiletter control sequences out of 15000+600000
+ 596423 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,103p,723b,5231s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/LiFtD.DESKTOP-NJPM2BG/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (29 pages, 2886310 bytes).
+Output written on main.pdf (36 pages, 2671310 bytes).
 PDF statistics:
- 491 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 408 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 403 words of extra memory for PDF output out of 10000 (max. 10000000)
 

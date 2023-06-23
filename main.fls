@@ -871,6 +871,18 @@ INPUT .\12_Chapter_III\chapter_III.tex
 INPUT .\12_Chapter_III\chapter_III.tex
 INPUT 12_Chapter_III\chapter_III.tex
 INPUT 12_Chapter_III\chapter_III.tex
+INPUT .\12_Chapter_III\Sections\Section_3.1.tex
+INPUT 12_Chapter_III\Sections\Section_3.1.tex
+INPUT .\12_Chapter_III\Sections\Section_3.1.tex
+INPUT 12_Chapter_III\Sections\Section_3.1.tex
+INPUT .\12_Chapter_III\Sections\Section_3.2.tex
+INPUT 12_Chapter_III\Sections\Section_3.2.tex
+INPUT .\12_Chapter_III\Sections\Section_3.2.tex
+INPUT 12_Chapter_III\Sections\Section_3.2.tex
+INPUT .\12_Chapter_III\Sections\Section_3.3.tex
+INPUT 12_Chapter_III\Sections\Section_3.3.tex
+INPUT .\12_Chapter_III\Sections\Section_3.3.tex
+INPUT 12_Chapter_III\Sections\Section_3.3.tex
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
 INPUT F_Figures\11_Chapter II\Cap2_Imagen3c.png
@@ -885,6 +897,26 @@ INPUT .\13_Chapter_IV\chapter_IV.tex
 INPUT .\13_Chapter_IV\chapter_IV.tex
 INPUT 13_Chapter_IV\chapter_IV.tex
 INPUT 13_Chapter_IV\chapter_IV.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.1.tex
+INPUT 13_Chapter_IV\Sections\Section_4.1.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.1.tex
+INPUT 13_Chapter_IV\Sections\Section_4.1.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.2.tex
+INPUT 13_Chapter_IV\Sections\Section_4.2.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.2.tex
+INPUT 13_Chapter_IV\Sections\Section_4.2.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.3.tex
+INPUT 13_Chapter_IV\Sections\Section_4.3.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.3.tex
+INPUT 13_Chapter_IV\Sections\Section_4.3.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.4.tex
+INPUT 13_Chapter_IV\Sections\Section_4.4.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.4.tex
+INPUT 13_Chapter_IV\Sections\Section_4.4.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.5.tex
+INPUT 13_Chapter_IV\Sections\Section_4.5.tex
+INPUT .\13_Chapter_IV\Sections\Section_4.5.tex
+INPUT 13_Chapter_IV\Sections\Section_4.5.tex
 INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
 INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
 INPUT F_Figures\15_Chapter VI\Cap6_Imagen1.jpeg
@@ -902,6 +934,34 @@ INPUT .\14_Chapter_V\chapter_V.tex
 INPUT .\14_Chapter_V\chapter_V.tex
 INPUT 14_Chapter_V\chapter_V.tex
 INPUT 14_Chapter_V\chapter_V.tex
+INPUT .\14_Chapter_V\Sections\Section_5.1.tex
+INPUT 14_Chapter_V\Sections\Section_5.1.tex
+INPUT .\14_Chapter_V\Sections\Section_5.1.tex
+INPUT 14_Chapter_V\Sections\Section_5.1.tex
+INPUT .\14_Chapter_V\Sections\Section_5.2.tex
+INPUT 14_Chapter_V\Sections\Section_5.2.tex
+INPUT .\14_Chapter_V\Sections\Section_5.2.tex
+INPUT 14_Chapter_V\Sections\Section_5.2.tex
+INPUT .\14_Chapter_V\Sections\Section_5.3.tex
+INPUT 14_Chapter_V\Sections\Section_5.3.tex
+INPUT .\14_Chapter_V\Sections\Section_5.3.tex
+INPUT 14_Chapter_V\Sections\Section_5.3.tex
+INPUT .\14_Chapter_V\Sections\Section_5.4.tex
+INPUT 14_Chapter_V\Sections\Section_5.4.tex
+INPUT .\14_Chapter_V\Sections\Section_5.4.tex
+INPUT 14_Chapter_V\Sections\Section_5.4.tex
+INPUT .\14_Chapter_V\Sections\Section_5.5.tex
+INPUT 14_Chapter_V\Sections\Section_5.5.tex
+INPUT .\14_Chapter_V\Sections\Section_5.5.tex
+INPUT 14_Chapter_V\Sections\Section_5.5.tex
+INPUT .\14_Chapter_V\Sections\Section_5.6.tex
+INPUT 14_Chapter_V\Sections\Section_5.6.tex
+INPUT .\14_Chapter_V\Sections\Section_5.6.tex
+INPUT 14_Chapter_V\Sections\Section_5.6.tex
+INPUT .\14_Chapter_V\Sections\Section_5.7.tex
+INPUT 14_Chapter_V\Sections\Section_5.7.tex
+INPUT .\14_Chapter_V\Sections\Section_5.7.tex
+INPUT 14_Chapter_V\Sections\Section_5.7.tex
 INPUT .\15_Chapter_VI\chapter_VI.tex
 INPUT .\15_Chapter_VI\chapter_VI.tex
 OUTPUT 15_Chapter_VI\chapter_VI.aux
@@ -909,6 +969,34 @@ INPUT .\15_Chapter_VI\chapter_VI.tex
 INPUT .\15_Chapter_VI\chapter_VI.tex
 INPUT 15_Chapter_VI\chapter_VI.tex
 INPUT 15_Chapter_VI\chapter_VI.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.1.tex
+INPUT 15_Chapter_VI\Sections\Section_6.1.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.1.tex
+INPUT 15_Chapter_VI\Sections\Section_6.1.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.2.tex
+INPUT 15_Chapter_VI\Sections\Section_6.2.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.2.tex
+INPUT 15_Chapter_VI\Sections\Section_6.2.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.3.tex
+INPUT 15_Chapter_VI\Sections\Section_6.3.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.3.tex
+INPUT 15_Chapter_VI\Sections\Section_6.3.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.4.tex
+INPUT 15_Chapter_VI\Sections\Section_6.4.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.4.tex
+INPUT 15_Chapter_VI\Sections\Section_6.4.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.5.tex
+INPUT 15_Chapter_VI\Sections\Section_6.5.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.5.tex
+INPUT 15_Chapter_VI\Sections\Section_6.5.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.6.tex
+INPUT 15_Chapter_VI\Sections\Section_6.6.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.6.tex
+INPUT 15_Chapter_VI\Sections\Section_6.6.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.7.tex
+INPUT 15_Chapter_VI\Sections\Section_6.7.tex
+INPUT .\15_Chapter_VI\Sections\Section_6.7.tex
+INPUT 15_Chapter_VI\Sections\Section_6.7.tex
 INPUT .\16_Chapter_VII\chapter_VII.tex
 INPUT .\16_Chapter_VII\chapter_VII.tex
 OUTPUT 16_Chapter_VII\chapter_VII.aux
@@ -916,6 +1004,20 @@ INPUT .\16_Chapter_VII\chapter_VII.tex
 INPUT .\16_Chapter_VII\chapter_VII.tex
 INPUT 16_Chapter_VII\chapter_VII.tex
 INPUT 16_Chapter_VII\chapter_VII.tex
+INPUT .\16_Chapter_VII\Sections\Section_7.1.tex
+INPUT 16_Chapter_VII\Sections\Section_7.1.tex
+INPUT .\16_Chapter_VII\Sections\Section_7.1.tex
+INPUT 16_Chapter_VII\Sections\Section_7.1.tex
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT .\16_Chapter_VII\Sections\Section_7.2.tex
+INPUT 16_Chapter_VII\Sections\Section_7.2.tex
+INPUT .\16_Chapter_VII\Sections\Section_7.2.tex
+INPUT 16_Chapter_VII\Sections\Section_7.2.tex
 INPUT .\17_Chapter_VIII\chapter_VIII.tex
 INPUT .\17_Chapter_VIII\chapter_VIII.tex
 OUTPUT 17_Chapter_VIII\chapter_VIII.aux
@@ -923,6 +1025,14 @@ INPUT .\17_Chapter_VIII\chapter_VIII.tex
 INPUT .\17_Chapter_VIII\chapter_VIII.tex
 INPUT 17_Chapter_VIII\chapter_VIII.tex
 INPUT 17_Chapter_VIII\chapter_VIII.tex
+INPUT .\17_Chapter_VIII\Sections\Section_8.1.tex
+INPUT 17_Chapter_VIII\Sections\Section_8.1.tex
+INPUT .\17_Chapter_VIII\Sections\Section_8.1.tex
+INPUT 17_Chapter_VIII\Sections\Section_8.1.tex
+INPUT .\17_Chapter_VIII\Sections\Section_8.2.tex
+INPUT 17_Chapter_VIII\Sections\Section_8.2.tex
+INPUT .\17_Chapter_VIII\Sections\Section_8.2.tex
+INPUT 17_Chapter_VIII\Sections\Section_8.2.tex
 INPUT .\20_Bibliography\bibliography.tex
 INPUT .\20_Bibliography\bibliography.tex
 OUTPUT 20_Bibliography\bibliography.aux
@@ -937,13 +1047,18 @@ INPUT .\21_Appendix\appendix.tex
 INPUT .\21_Appendix\appendix.tex
 INPUT 21_Appendix\appendix.tex
 INPUT 21_Appendix\appendix.tex
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
-INPUT .\F_Figures\15_Chapter VI\Cap6_Imagen2.jpeg
+INPUT .\21_Appendix\Sections\Section_A.tex
+INPUT 21_Appendix\Sections\Section_A.tex
+INPUT .\21_Appendix\Sections\Section_A.tex
+INPUT 21_Appendix\Sections\Section_A.tex
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
+INPUT .\21_Appendix\Sections\Section_B.tex
+INPUT 21_Appendix\Sections\Section_B.tex
+INPUT .\21_Appendix\Sections\Section_B.tex
+INPUT 21_Appendix\Sections\Section_B.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm

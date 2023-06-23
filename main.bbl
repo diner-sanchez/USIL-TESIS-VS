@@ -269,6 +269,41 @@
       \field{pages}{701\bibrangedash 712}
       \range{pages}{12}
     \endentry
+    \entry{JRLevin2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f25702a28582a3c7ba0b52ba8d18aca9}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Joel\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=078a240f685052b531d44d30132d86aa}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Angela\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{fullhash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{bibnamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authorbibnamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authornamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authorfullhash}{a9540900cff107154637d3cb60af0c2f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cognitive Education and Psychology}
+      \field{title}{What to do about educational research's credibility gaps?}
+      \field{volume}{1}
+      \field{year}{2000}
+      \field{pages}{201\bibrangedash 256}
+      \range{pages}{56}
+    \endentry
     \entry{Shotton1989}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=10caa8ca4c58e610538df79cbad5a57a}{%
@@ -551,6 +586,41 @@
       \field{year}{2006}
       \field{pages}{701\bibrangedash 712}
       \range{pages}{12}
+    \endentry
+    \entry{JRLevin2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f25702a28582a3c7ba0b52ba8d18aca9}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Joel\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=078a240f685052b531d44d30132d86aa}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Angela\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{fullhash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{bibnamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authorbibnamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authornamehash}{a9540900cff107154637d3cb60af0c2f}
+      \strng{authorfullhash}{a9540900cff107154637d3cb60af0c2f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cognitive Education and Psychology}
+      \field{title}{What to do about educational research's credibility gaps?}
+      \field{volume}{1}
+      \field{year}{2000}
+      \field{pages}{201\bibrangedash 256}
+      \range{pages}{56}
     \endentry
     \entry{Shotton1989}{book}{}
       \name{author}{1}{}{%
