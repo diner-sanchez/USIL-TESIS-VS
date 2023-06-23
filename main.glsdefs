@@ -1,0 +1,39 @@
+\glsdefs@newdocentry{svm}%
+{%
+name={\acronymfont {\glsentryshort {svm}}},%
+sort={SVM},%
+type={main},%
+first={SVM},%
+firstplural={SVMs},%
+text={SVM},%
+plural={SVMs},%
+description={Support Vector Machine},%
+descriptionplural={Support Vector Machine},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Support Vector Machine},%
+longplural={Support Vector Machines},%
+short={SVM},%
+shortplural={SVMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{\pi }%
+{%
+name={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+sort={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+type={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+first={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+firstplural={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+text={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+plural={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+description={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%
+descriptionplural={\glo@arent @index\endcsname !ort\endcsname ?\subglossentry{evel\endcsname }{\pi }},%

@@ -999,35 +999,35 @@
 \IfFileExists{bm.sty}{\RequirePackage{bm}\@bm@loadedtrue}{}% if not, apaSevenvector will fail
 \newcommand{\uprightlowercasegreek}{%
   \@ifundefined{alphaup}{}{%
-    \def\alpha     {\alphaup     }%
-    \def\beta      {\betaup      }%
-    \def\gamma     {\gammaup     }%
-    \def\delta     {\deltaup     }%
-    \def\epsilon   {\epsilonup   }%
-    \def\varepsilon{\varepsilonup}%
-    \def\zeta      {\zetaup      }%
-    \def\eta       {\etaup       }%
-    \def\theta     {\thetaup     }%
-    \def\vartheta  {\varthetaup  }%
-    \def\iota      {\iotaup      }%
-    \def\kappa     {\kappaup     }%
-    \def\lambda    {\lambdaup    }%
-    \def\mu        {\muup        }%
-    \def\nu        {\nuup        }%
-    \def\xi        {\xiup        }%
-    \def\pi        {\piup        }%
-    \def\varpi     {\varpiup     }%
-    \def\rho       {\rhoup       }%
-    \def\varrho    {\varrhoup    }%
-    \def\sigma     {\sigmaup     }%
-    \def\varsigma  {\varsigmaup  }%
-    \def\tau       {\tauup       }%
-    \def\upsilon   {\upsilonup   }%
-    \def\phi       {\phiup       }%
-    \def\varphi    {\varphiup    }%
-    \def\chi       {\chiup       }%
-    \def\psi       {\psiup       }%
-    \def\omega     {\omegaup     }%
+    % \def\alpha     {\alphaup     }%
+    % \def\beta      {\betaup      }%
+    % \def\gamma     {\gammaup     }%
+    % \def\delta     {\deltaup     }%
+    % \def\epsilon   {\epsilonup   }%
+    % \def\varepsilon{\varepsilonup}%
+    % \def\zeta      {\zetaup      }%
+    % \def\eta       {\etaup       }%
+    % \def\theta     {\thetaup     }%
+    % \def\vartheta  {\varthetaup  }%
+    % \def\iota      {\iotaup      }%
+    % \def\kappa     {\kappaup     }%
+    % \def\lambda    {\lambdaup    }%
+    % \def\mu        {\muup        }%
+    % \def\nu        {\nuup        }%
+    % \def\xi        {\xiup        }%
+    % \def\pi        {\piup        }%
+    % \def\varpi     {\varpiup     }%
+    % \def\rho       {\rhoup       }%
+    % \def\varrho    {\varrhoup    }%
+    % \def\sigma     {\sigmaup     }%
+    % \def\varsigma  {\varsigmaup  }%
+    % \def\tau       {\tauup       }%
+    % \def\upsilon   {\upsilonup   }%
+    % \def\phi       {\phiup       }%
+    % \def\varphi    {\varphiup    }%
+    % \def\chi       {\chiup       }%
+    % \def\psi       {\psiup       }%
+    % \def\omega     {\omegaup     }%
   }%
 }
 \let\apaSevenmatrix\apaSevenvector
@@ -1114,7 +1114,6 @@
     \@afterheading
     \makeatother
 }}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%                     %%
@@ -1279,7 +1278,6 @@
 
 
 \captionsetup{justification=raggedright}
-
 
 \def\maketitle{
 \@ifundefined{hrm}{}{\hrm}
@@ -1828,6 +1826,8 @@
 
 \RequirePackage{setspace}
 \RequirePackage{changepage} % Paquete para ajustar el ancho del texto
+\RequirePackage{amsmath} % Permite tener acceso a las funcionalidades de ecuaciones de LaTeX
+\RequirePackage{tocloft}
 
 %%%%%%%%%%%%%% DEFINIR VARIABLES DE INFORMACIÓN PERSONAL Y TRABAJO %%%%%%%%%%%%%%
 
@@ -1932,7 +1932,6 @@
   \clearpage
 }
 
-
 % Agradecimiento-----------------------------------------------------
 \newenvironment{acknowledgments}
 {
@@ -1971,4 +1970,56 @@
 }
 {\clearpage}
 \makeatother
+  
+%%%%%%%%%%%%%%%% DEFINIR LISTA DE ECUACIONES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\listequationsname}{List of Equations}
+\newlistof{myequations}{equ}{\listequationsname}
+\newcommand{\myequations}[1]{%
+    \addcontentsline{equ}{myequations}{\protect\numberline{\theequation}#1}\par
+}
+
+%%%%%%%%%%%%%%%%%%%%%% DEFINIR LISTA DE SIGLAS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\RequirePackage{etoolbox}
+
+% Definir el nombre de la lista de abreviaturas
+\newcommand{\listofabbreviationsname}{List of Abbreviations}
+
+% Crear la lista de abreviaturas
+\newlistof{abbreviations}{abb}{\listofabbreviationsname}
+
+% Definir el comando para añadir una abreviatura a la lista y usarla en el documento
+\newrobustcmd{\addabbreviations}[2]{%
+    \addcontentsline{abb}{abbreviations}{#1 \protect{} #2}%
+    \expandafter\def\csname#1\endcsname{#2 (#1)}%
+    \ifcsdef{#1}{\csname#1\endcsname}{\textbf{[Abbreviation: #1]}}%
+}
+
+% Definir el comando \abbrev para utilizar una abreviatura en el documento
+\newcommand{\abbrev}[1]{%
+    \ifcsdef{#1}{#1}{\textbf{[Abbreviation: #1]}}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%% DEFINIR LISTA DE SIMBOLOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\RequirePackage{amsmath}
+
+% Definir el nombre de la lista de símbolos
+\newcommand{\listofsymbolsname}{List of Symbols}
+
+% Crear la lista de símbolos
+\newlistof{symbols}{symb}{\listofsymbolsname}
+
+% Definir el comando para añadir un símbolo a la lista y usarlo en el documento
+\newrobustcmd{\addsymbol}[3]{%
+  \addcontentsline{symb}{symbols}{#2 \protect{} #3}%
+  \expandafter\protected@edef\csname#1\endcsname{\unexpanded{#2}, #3}%
+  \ifcsdef{#1}{\csname#1\endcsname}{\textbf{[Symbol: #2]}}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 

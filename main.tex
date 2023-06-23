@@ -13,16 +13,25 @@
 \frontmatter % Comenzar numeración romana
 
 % Índice de contenidos
-\renewcommand\contentsname{\centering Índice}
+\renewcommand\contentsname{Índice}
 \tableofcontents
 \newpage
 % Índice de tablas
-\renewcommand\listtablename{\centering Índice de Tablas}
+\renewcommand\listtablename{Índice de Tablas}
 \listoftables
 \newpage
 % Índice de figuras
-\renewcommand\listfigurename{\centering Índice de Figuras}
+\renewcommand\listfigurename{Índice de Figuras}
 \listoffigures
+\newpage
+% Lista de siglas
+\listofabbreviations
+\newpage
+% Lista de simbolos
+\listofsymbols
+\newpage
+% Índice de ecuaciones
+\listofmyequations
 \newpage
 \doublespacing
 
@@ -52,6 +61,7 @@
 % Capítulo IV: Hipótesis y Variables
 \include{13_Chapter_IV/chapter_IV}
 
+\abbrev{ATA}
 % Capítulo V: Metodología
 \include{14_Chapter_V/chapter_V}
 
@@ -65,6 +75,7 @@
 \include{17_Chapter_VIII/chapter_VIII}
 
 \backmatter % Continuar numeración arábica
+
 
 % Referencias
 \include{20_Bibliography/bibliography}

@@ -1,0 +1,589 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Borst2011c}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac93c10c4a514d2fefa1e3e580007d6d}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba59b8c7d36feb813e3e651a7951a37}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8d8a47ec26c261684652df57fc82814}{%
+           family={Kosslyn},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6c54ddcccad10946a17068bb6720b67}
+      \strng{fullhash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{bibnamehash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{authorbibnamehash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{authornamehash}{f6c54ddcccad10946a17068bb6720b67}
+      \strng{authorfullhash}{9674e903c8db2bee61144f7fa06dd77c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{title}{Understanding the dorsal and ventral systems of the human cerebral cortex: {B}eyond dichotomies}
+      \field{volume}{66}
+      \field{year}{2011}
+      \field{pages}{624\bibrangedash 632}
+      \range{pages}{9}
+    \endentry
+    \entry{deWaal2009}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=21eb8cbef68ad2ff7be481561ef93f79}{%
+           family={Waal},
+           familyi={W\bibinitperiod},
+           given={Elda},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7e906b451d818ab6b18bbae70c67ca91}{%
+           family={Grosser},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{fullhash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{bibnamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authorbibnamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authornamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authorfullhash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Teaching and Teacher Education}
+      \field{title}{Safety and security at school: {A} pedagogical perspective}
+      \field{volume}{25}
+      \field{year}{2009}
+      \field{pages}{697\bibrangedash 706}
+      \range{pages}{10}
+    \endentry
+    \entry{Gilbert2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d914915b9636943df69405ed649bc1ae}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648cd3b10d51835d1d1e4d7168547995}{%
+           family={McClernon},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd341deb8b98672390580cb5ca3116f6}{%
+           family={Rabinovich},
+           familyi={R\bibinitperiod},
+           given={Norka},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49dab232d5ee139a5a089b4ffd9cbe55}{%
+           family={Sugai},
+           familyi={S\bibinitperiod},
+           given={Chihiro},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b75eef2ee3cffe26fa7d00c398cefc36}{%
+           family={Plath},
+           familyi={P\bibinitperiod},
+           given={Louisette},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a32a6feba72bcde74718056383817d5}{%
+           family={Asgaard},
+           familyi={A\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7fff282fa241cccea812cb79739991}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Yantao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4aae0735fdba5ae0926786129037129}{%
+           family={Huggenvik},
+           familyi={H\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ff4b1f6e954d258aa0de47387f8010f}{%
+           family={Botros},
+           familyi={B\bibinitperiod},
+           given={Nazeih},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{fullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{bibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authorbibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authornamehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{authorfullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nicotine \& Tobacco Research}
+      \field{number}{2}
+      \field{title}{Effects of quitting smoking on {EEG} activation and attention last for more than 31 days and are more severe with stress, dependence, {DRD2 A1} allele, and depressive traits}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{249\bibrangedash 267}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/14622200410001676305
+      \endverb
+    \endentry
+    \entry{Haybron2008}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f61ed634f90a358cb01783a311f03d3}{%
+           family={Haybron},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=de964c7d1031ee74e8e2ede671dd18bc}{%
+           family={Eid},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7941b2edf476479cc488731575c0b283}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Randy\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{fullhash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{bibnamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authorbibnamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authornamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authorfullhash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{editorbibnamehash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \strng{editornamehash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \strng{editorfullhash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The science of subjective well-being}
+      \field{title}{Philosophy and the science of subjective well-being}
+      \field{year}{2008}
+      \field{pages}{17\bibrangedash 43}
+      \range{pages}{27}
+    \endentry
+    \entry{Lassen2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9859f085b399022e84a5f22c7e26dfae}{%
+           family={Lassen},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41f0003a04629fda9fadb3f7cc1a424a}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359a93b7c3e76123ae0e97ce57a119a3}{%
+           family={Sailor},
+           familyi={S\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a64fb7f538e2c34109e1e0136e81118d}
+      \strng{fullhash}{bddd431150c2314fd2e222d253318848}
+      \strng{bibnamehash}{bddd431150c2314fd2e222d253318848}
+      \strng{authorbibnamehash}{bddd431150c2314fd2e222d253318848}
+      \strng{authornamehash}{a64fb7f538e2c34109e1e0136e81118d}
+      \strng{authorfullhash}{bddd431150c2314fd2e222d253318848}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology in the Schools}
+      \field{number}{6}
+      \field{title}{The relationship of school-wide positive behavior support to academic achievement in an urban middle school}
+      \field{volume}{43}
+      \field{year}{2006}
+      \field{pages}{701\bibrangedash 712}
+      \range{pages}{12}
+    \endentry
+    \entry{Shotton1989}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10caa8ca4c58e610538df79cbad5a57a}{%
+           family={Shotton},
+           familyi={S\bibinitperiod},
+           given={Margaret\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{fullhash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{bibnamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authorbibnamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authornamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authorfullhash}{10caa8ca4c58e610538df79cbad5a57a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer addiction? {A} study of computer dependency}
+      \field{year}{1989}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Borst2011c}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac93c10c4a514d2fefa1e3e580007d6d}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba59b8c7d36feb813e3e651a7951a37}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8d8a47ec26c261684652df57fc82814}{%
+           family={Kosslyn},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6c54ddcccad10946a17068bb6720b67}
+      \strng{fullhash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{bibnamehash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{authorbibnamehash}{9674e903c8db2bee61144f7fa06dd77c}
+      \strng{authornamehash}{f6c54ddcccad10946a17068bb6720b67}
+      \strng{authorfullhash}{9674e903c8db2bee61144f7fa06dd77c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{title}{Understanding the dorsal and ventral systems of the human cerebral cortex: {B}eyond dichotomies}
+      \field{volume}{66}
+      \field{year}{2011}
+      \field{pages}{624\bibrangedash 632}
+      \range{pages}{9}
+    \endentry
+    \entry{deWaal2009}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=21eb8cbef68ad2ff7be481561ef93f79}{%
+           family={Waal},
+           familyi={W\bibinitperiod},
+           given={Elda},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7e906b451d818ab6b18bbae70c67ca91}{%
+           family={Grosser},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{fullhash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{bibnamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authorbibnamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authornamehash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \strng{authorfullhash}{0586ceb4404fbcc006cf7bbab3c4fcd6}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Teaching and Teacher Education}
+      \field{title}{Safety and security at school: {A} pedagogical perspective}
+      \field{volume}{25}
+      \field{year}{2009}
+      \field{pages}{697\bibrangedash 706}
+      \range{pages}{10}
+    \endentry
+    \entry{Gilbert2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d914915b9636943df69405ed649bc1ae}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648cd3b10d51835d1d1e4d7168547995}{%
+           family={McClernon},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd341deb8b98672390580cb5ca3116f6}{%
+           family={Rabinovich},
+           familyi={R\bibinitperiod},
+           given={Norka},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49dab232d5ee139a5a089b4ffd9cbe55}{%
+           family={Sugai},
+           familyi={S\bibinitperiod},
+           given={Chihiro},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b75eef2ee3cffe26fa7d00c398cefc36}{%
+           family={Plath},
+           familyi={P\bibinitperiod},
+           given={Louisette},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a32a6feba72bcde74718056383817d5}{%
+           family={Asgaard},
+           familyi={A\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7fff282fa241cccea812cb79739991}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Yantao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4aae0735fdba5ae0926786129037129}{%
+           family={Huggenvik},
+           familyi={H\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ff4b1f6e954d258aa0de47387f8010f}{%
+           family={Botros},
+           familyi={B\bibinitperiod},
+           given={Nazeih},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{fullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{bibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authorbibnamehash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \strng{authornamehash}{5e0167e95e61d98471a73c0dc34f779e}
+      \strng{authorfullhash}{f0a6aece440f287ca835007ac9dfe5c7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nicotine \& Tobacco Research}
+      \field{number}{2}
+      \field{title}{Effects of quitting smoking on {EEG} activation and attention last for more than 31 days and are more severe with stress, dependence, {DRD2 A1} allele, and depressive traits}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{249\bibrangedash 267}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/14622200410001676305
+      \endverb
+    \endentry
+    \entry{Haybron2008}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f61ed634f90a358cb01783a311f03d3}{%
+           family={Haybron},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=de964c7d1031ee74e8e2ede671dd18bc}{%
+           family={Eid},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7941b2edf476479cc488731575c0b283}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Randy\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{fullhash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{bibnamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authorbibnamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authornamehash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{authorfullhash}{4f61ed634f90a358cb01783a311f03d3}
+      \strng{editorbibnamehash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \strng{editornamehash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \strng{editorfullhash}{ed7c3a88e1c5db989043174b5fa64d70}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The science of subjective well-being}
+      \field{title}{Philosophy and the science of subjective well-being}
+      \field{year}{2008}
+      \field{pages}{17\bibrangedash 43}
+      \range{pages}{27}
+    \endentry
+    \entry{Lassen2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9859f085b399022e84a5f22c7e26dfae}{%
+           family={Lassen},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41f0003a04629fda9fadb3f7cc1a424a}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359a93b7c3e76123ae0e97ce57a119a3}{%
+           family={Sailor},
+           familyi={S\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a64fb7f538e2c34109e1e0136e81118d}
+      \strng{fullhash}{bddd431150c2314fd2e222d253318848}
+      \strng{bibnamehash}{bddd431150c2314fd2e222d253318848}
+      \strng{authorbibnamehash}{bddd431150c2314fd2e222d253318848}
+      \strng{authornamehash}{a64fb7f538e2c34109e1e0136e81118d}
+      \strng{authorfullhash}{bddd431150c2314fd2e222d253318848}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology in the Schools}
+      \field{number}{6}
+      \field{title}{The relationship of school-wide positive behavior support to academic achievement in an urban middle school}
+      \field{volume}{43}
+      \field{year}{2006}
+      \field{pages}{701\bibrangedash 712}
+      \range{pages}{12}
+    \endentry
+    \entry{Shotton1989}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10caa8ca4c58e610538df79cbad5a57a}{%
+           family={Shotton},
+           familyi={S\bibinitperiod},
+           given={Margaret\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{fullhash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{bibnamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authorbibnamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authornamehash}{10caa8ca4c58e610538df79cbad5a57a}
+      \strng{authorfullhash}{10caa8ca4c58e610538df79cbad5a57a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer addiction? {A} study of computer dependency}
+      \field{year}{1989}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

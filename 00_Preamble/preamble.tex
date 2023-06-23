@@ -1,8 +1,10 @@
 \usepackage{lipsum} % Generar texto ficticio Lorem Ipsum
 \usepackage[american]{babel} % Configuración del idioma en español
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{csquotes} % Mejora las citas y referencias bibliográficas
-\usepackage[style=apa,backend=biber]{biblatex} % Estilo APA para citas y referencias bibliográficas
-\addbibresource{bibliography.bib} 
+\usepackage[backend=biber, style=apa]{biblatex} % Estilo APA para citas y referencias bibliográficas
+\addbibresource{20_Bibliography/bibliography.bib} 
 \usepackage{hyperref} % Creación de enlaces internos y externos en el documento PDF
 \hypersetup{
     colorlinks=true, % Activar enlaces coloreados
@@ -23,13 +25,15 @@
 \AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} % Desactivar numeración de página en la página de la tabla de contenidos
 
 %%%%%%%%% AGREGAR PREFIJO A LOF Y LOT %%%%%%%%%%%%%
-\usepackage{tocloft}
 
 \renewcommand{\cftfigpresnum}{Figura }
 \setlength{\cftfignumwidth}{5em}
 
 \renewcommand{\cfttabpresnum}{Tabla }
 \setlength{\cfttabnumwidth}{5em}
+
+\renewcommand{\cftmyequationspresnum}{Ecuación }
+\setlength{\cftmyequationsnumwidth}{6em}
 
 %%%%%%%%% MODIFICAR ENTORNO SUBFIGURE %%%%%%%%%%%%%
 
@@ -46,6 +50,12 @@
 
 \renewcommand{\cftloftitlefont}{\hfill\normalfont\normalsize\bfseries}
 \renewcommand{\cftafterloftitle}{\hfill}
+
+\renewcommand{\listequationsname}{\hfill\normalfont\normalsize\bfseries Lista de Ecuaciones \hfill}
+
+\renewcommand{\listofabbreviationsname}{\hfill\normalfont\normalsize\bfseries Lista de Siglas \hfill}
+
+\renewcommand{\listofsymbolsname}{\hfill\normalfont\normalsize\bfseries Lista de Simbolos \hfill}
 
 %%%%%%%%%% AGREGAR PREFIJO DE A SECCIONES Y A TOC %%%%%%%%%
 
