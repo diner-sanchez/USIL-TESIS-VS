@@ -883,6 +883,10 @@ INPUT .\12_Chapter_III\Sections\Section_3.3.tex
 INPUT 12_Chapter_III\Sections\Section_3.3.tex
 INPUT .\12_Chapter_III\Sections\Section_3.3.tex
 INPUT 12_Chapter_III\Sections\Section_3.3.tex
+INPUT .\T_Tables\12_Chapter III\Cap3_Table1.tex
+INPUT T_Tables\12_Chapter III\Cap3_Table1.tex
+INPUT .\T_Tables\12_Chapter III\Cap3_Table1.tex
+INPUT T_Tables\12_Chapter III\Cap3_Table1.tex
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
 INPUT .\F_Figures\11_Chapter II\Cap2_Imagen3c.png
 INPUT F_Figures\11_Chapter II\Cap2_Imagen3c.png
@@ -1059,6 +1063,10 @@ INPUT .\21_Appendix\Sections\Section_B.tex
 INPUT 21_Appendix\Sections\Section_B.tex
 INPUT .\21_Appendix\Sections\Section_B.tex
 INPUT 21_Appendix\Sections\Section_B.tex
+INPUT .\T_Tables\21_Appendix\Appendix_Table1.tex
+INPUT T_Tables\21_Appendix\Appendix_Table1.tex
+INPUT .\T_Tables\21_Appendix\Appendix_Table1.tex
+INPUT T_Tables\21_Appendix\Appendix_Table1.tex
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
 INPUT C:\Users\LiFtD.DESKTOP-NJPM2BG\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
